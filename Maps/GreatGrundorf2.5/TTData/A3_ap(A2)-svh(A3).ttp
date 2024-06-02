@@ -1,0 +1,131 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+A3_ap(A2)-svh(A3)
+36: South Valley Hospital
+36
+
+.........................
+        Stations
+.........................
+
+[station]
+4613924
+2
+Airport (Ground Transportation Centre)
+61
+0.919
+36.771
+-0.229
+0.000
+
+[station]
+4666943
+48
+Passenger Terminal 1
+66
+5.597
+899.802
+27.388
+0.000
+
+[station]
+1440895
+165
+Grundorf Tunnel Toll Plaza
+220
+0.802
+7854.440
+7.334
+20.000
+
+[station]
+1843179
+291
+South Valley Railway Station
+271
+0.684
+14442.700
+12.774
+50.000
+
+[station]
+1892371
+311
+South Valley Sport Centres
+315
+4.268
+14965.915
+23.010
+30.000
+
+[station]
+2057776
+327
+South Valley Lake Park
+314
+3.118
+15325.639
+19.137
+2.000
+
+[station]
+2057720
+344
+Red Wall Garden
+322
+1.395
+15711.202
+1.704
+15.000
+
+[station]
+2057681
+365
+Mid-Levels Plaza
+322
+6.344
+16054.985
+6.846
+20.000
+
+[station]
+2057686
+384
+Yan Lam Estate
+317
+4.352
+16545.722
+21.313
+15.000
+
+[station]
+2057760
+400
+South Valley Hospital
+323
+1.384
+16958.357
+6.160
+10.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+24.000
+
+[profile_man_arr_time]
+2
+9.000
+[profile_man_arr_time]
+3
+17.000

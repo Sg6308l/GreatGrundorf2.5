@@ -1,0 +1,212 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+70M - 01
+Depot 1
+1023
+
+------------------------------------
+
+  Dep.: 6:10:0
+[addtrip]
+D_depot3-ct(70E)
+0
+370.000
+
+  Dep.: 6:30:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+390.000
+
+  Dep.: 6:36:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+396.000
+
+  Dep.: 6:45:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+405.000
+
+  Dep.: 6:51:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+411.000
+
+  Dep.: 7:0:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+420.000
+
+  Dep.: 7:6:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+426.000
+
+  Dep.: 7:15:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+435.000
+
+  Dep.: 7:21:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+441.000
+
+  Dep.: 7:30:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+450.000
+
+  Dep.: 7:36:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+456.000
+
+  Dep.: 14:30:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+870.000
+
+  Dep.: 14:36:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+876.000
+
+  Dep.: 14:45:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+885.000
+
+  Dep.: 14:51:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+891.000
+
+  Dep.: 15:0:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+900.000
+
+  Dep.: 15:6:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+906.000
+
+  Dep.: 15:15:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+915.000
+
+  Dep.: 15:21:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+921.000
+
+  Dep.: 15:30:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+930.000
+
+  Dep.: 15:36:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+936.000
+
+  Dep.: 22:30:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+1350.000
+
+  Dep.: 22:36:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+1356.000
+
+  Dep.: 22:45:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+1365.000
+
+  Dep.: 22:51:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+1371.000
+
+  Dep.: 23:0:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+1380.000
+
+  Dep.: 23:6:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+1386.000
+
+  Dep.: 23:15:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+1395.000
+
+  Dep.: 23:21:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+1401.000
+
+  Dep.: 23:30:0
+[addtrip]
+70E_ct(70E)-gt(70E)
+0
+1410.000
+
+  Dep.: 23:36:0
+[addtrip]
+70E_gt(70E)-ct(70E)
+0
+1416.000
+
+  Dep.: 23:45:0
+[addtrip]
+D_ct(70E)-depot3
+0
+1425.000
+

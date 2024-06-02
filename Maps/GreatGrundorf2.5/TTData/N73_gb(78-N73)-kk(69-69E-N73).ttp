@@ -1,0 +1,285 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+N73_gb(78-N73)-kk(69-69E-N73)
+N73: Krankenhaus
+N73
+
+.........................
+        Stations
+.........................
+
+[station]
+611393
+5
+Grundorf Bay
+23
+1.184
+54.994
+4.304
+0.000
+
+[station]
+46358
+17
+Sliversea House
+23
+3.109
+348.333
+47.843
+0.000
+
+[station]
+46353
+25
+United Dormitory
+32
+1.181
+662.897
+4.607
+5.000
+
+[station]
+46352
+32
+Royal Court
+32
+1.271
+847.118
+47.436
+10.000
+
+[station]
+46385
+73
+Eastern Public Library
+31
+4.450
+1876.199
+24.126
+20.000
+
+[station]
+46388
+85
+Eastern Sport Ground
+30
+3.070
+2122.007
+17.831
+10.000
+
+[station]
+46389
+91
+Vermilion Top
+30
+3.216
+2283.493
+9.390
+8.000
+
+[station]
+123497
+106
+Pine Village
+28
+4.483
+2878.186
+24.183
+3.000
+
+[station]
+123504
+116
+Yellow House 3
+26
+3.159
+3151.328
+12.323
+15.000
+
+[station]
+46428
+131
+Submontane Village
+16
+4.420
+3637.722
+23.497
+8.000
+
+[station]
+46347
+152
+Jade Village
+20
+1.327
+4233.663
+69.335
+10.000
+
+[station]
+53255
+161
+Tianing Estate
+9
+1.323
+4691.556
+22.274
+15.000
+
+[station]
+16817
+183
+Western Industrial Training Centre
+0
+4.500
+5157.027
+22.346
+15.000
+
+[station]
+16819
+201
+Good View Village
+0
+3.129
+5760.937
+33.856
+15.000
+
+[station]
+16822
+207
+Mountain Court
+14
+3.139
+6031.226
+24.146
+20.000
+
+[station]
+16823
+217
+Mill Hill Village
+1
+1.255
+6344.989
+17.903
+15.000
+
+[station]
+16824
+222
+Mill Peak
+1
+2.291
+6557.114
+7.828
+20.000
+
+[station]
+18170
+257
+W. Sports Ground
+6
+3.081
+7968.315
+38.921
+20.000
+
+[station]
+65562
+264
+Mill Court
+6
+1.293
+8216.066
+12.172
+20.000
+
+[station]
+129
+277
+Nordspitze
+3
+3.177
+8553.665
+32.928
+20.000
+
+[station]
+1796323
+286
+Bauernhof Railway Station
+5
+1.142
+8770.270
+17.053
+60.000
+
+[station]
+763
+301
+Elsterplatz
+5
+3.190
+9140.789
+4.496
+20.000
+
+[station]
+841
+308
+Gau?orf
+5
+3.158
+9366.393
+25.300
+20.000
+
+[station]
+4887
+319
+Einsteindorf Ausbau
+8
+3.166
+9586.211
+3.438
+10.000
+
+[station]
+4889
+330
+Einsteindorf Marktplatz
+2
+4.461
+9883.560
+23.027
+15.000
+
+[station]
+682573
+332
+Krankenhaus
+8
+1.186
+9961.817
+46.925
+20.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+20.000
+

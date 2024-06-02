@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+Rail1
+Hong Shing
+1
+
+.........................
+        Stations
+.........................
+
+[station]
+5505013
+29
+Bauernhof Station
+86
+-0.338
+2295.309
+-0.271
+5.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+4.000
+

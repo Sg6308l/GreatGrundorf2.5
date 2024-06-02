@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_depotA-ex(E2)
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+[station]
+4697251
+93
+Grundorf Expo Terminus
+63
+0.940
+2861.398
+20.919
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+6.000
+

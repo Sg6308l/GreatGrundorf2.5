@@ -1,0 +1,267 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+78_pb(78-79)-gb(78-N73)
+78: Grundorf Bay
+78
+
+.........................
+        Stations
+.........................
+
+[station]
+581676
+0
+Peninsula Beach
+216
+-1.135
+23.487
+23.487
+0.000
+
+[station]
+397900
+11
+Peninsula Beach
+214
+3.650
+150.520
+0.700
+0.000
+
+[station]
+397898
+28
+2 Peninsula Beach
+213
+4.128
+592.799
+23.739
+0.000
+
+[station]
+397893
+46
+Scenery Villa
+208
+4.098
+1339.153
+24.893
+0.000
+
+[station]
+397894
+58
+Neo Greenhouse
+204
+3.981
+1839.839
+24.979
+0.000
+
+[station]
+397897
+71
+Western Beach Hotel
+198
+4.002
+2426.026
+26.166
+0.000
+
+[station]
+359369
+115
+University of Grundorf
+199
+-23.512
+3107.337
+-20.039
+10.000
+
+[station]
+360970
+145
+Western Coast
+196
+4.451
+3700.171
+24.425
+5.000
+
+[station]
+380194
+167
+Davis International School
+194
+4.315
+4337.376
+22.840
+8.000
+
+[station]
+470028
+178
+Official Lodge
+193
+4.096
+4587.180
+25.611
+0.000
+
+[station]
+470022
+185
+Willow Garden
+94
+4.058
+5052.523
+25.954
+1.000
+
+[station]
+378992
+201
+Lauma Terrace
+93
+4.439
+5471.196
+23.558
+5.000
+
+[station]
+361731
+210
+Piper Tsuen
+92
+4.463
+5789.433
+23.695
+1.000
+
+[station]
+348298
+229
+Jumbo Garden
+182
+4.511
+6425.180
+24.091
+20.000
+
+[station]
+331375
+255
+Police Dormitory
+177
+4.590
+7056.253
+24.265
+15.000
+
+[station]
+331372
+267
+Ocean Villa
+176
+4.531
+7611.725
+24.636
+2.500
+
+[station]
+331371
+280
+Tak Wo Estate
+47
+4.317
+8151.592
+23.192
+15.000
+
+[station]
+46390
+308
+Vermilion Top
+30
+3.014
+8824.564
+14.063
+10.000
+
+[station]
+46387
+313
+Eastern Sport Ground
+30
+3.178
+9135.742
+80.670
+25.000
+
+[station]
+46386
+323
+Eastern Public Library
+31
+4.511
+9374.711
+24.126
+20.000
+
+[station]
+46355
+356
+Seaside Garden
+22
+3.022
+10030.987
+-0.209
+15.000
+
+[station]
+702257
+359
+Sliversea House
+23
+2.951
+10155.510
+76.317
+15.000
+
+[station]
+581674
+380
+Grundorf Bay
+23
+0.724
+10641.399
+22.077
+10.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+26.000
+
+[profile]
+fast
+24.000
+
+[profile]
+very fast
+22.000
+
+[profile]
+super fast
+20.000
+

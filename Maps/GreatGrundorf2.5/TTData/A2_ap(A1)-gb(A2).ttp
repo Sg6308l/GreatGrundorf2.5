@@ -1,0 +1,118 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+A2_ap(A1)-gb(A2)
+34: Grundorf Bay
+34
+
+.........................
+        Stations
+.........................
+
+[station]
+4613923
+2
+Airport (Ground Transportation Centre)
+61
+0.952
+39.003
+0.003
+0.000
+
+[station]
+4666943
+47
+Passenger Terminal 1
+66
+5.597
+886.574
+27.388
+0.000
+
+[station]
+1896424
+137
+Vermilion Top
+30
+3.139
+4961.337
+3.088
+15.000
+
+[station]
+1896442
+142
+Eastern Sport Ground
+30
+3.123
+5270.764
+67.945
+20.000
+
+[station]
+53400
+156
+Wah Fu Estate A2
+31
+4.072
+5652.327
+25.793
+30.000
+
+[station]
+702251
+169
+Eastern Public Library
+31
+4.517
+5817.119
+23.080
+20.000
+
+[station]
+702253
+202
+Seaside Garden
+22
+3.025
+6472.808
+-1.841
+15.000
+
+[station]
+702257
+205
+Sliversea House
+23
+2.951
+6598.962
+76.317
+15.000
+
+[station]
+581675
+225
+Grundorf Bay
+23
+1.503
+7079.480
+23.886
+20.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+14.000
+
+[profile_man_arr_time]
+2
+5.000

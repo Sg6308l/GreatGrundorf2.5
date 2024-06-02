@@ -1,0 +1,155 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+A1_ap(A4)-ba(A1)
+110: Bauernhof
+110
+
+.........................
+        Stations
+.........................
+
+[station]
+4613922
+2
+Airport (Ground Transportation Centre)
+61
+1.027
+40.183
+0.183
+0.000
+
+[station]
+4666943
+46
+Passenger Terminal 1
+66
+5.597
+872.501
+27.388
+0.000
+
+[station]
+702244
+130
+Western Industrial Training Centre
+0
+4.501
+3958.008
+26.818
+10.000
+
+[station]
+4302932
+147
+Tianing Estate Carpark
+9
+1.080
+4387.437
+36.803
+25.000
+
+[station]
+4889
+159
+Einsteindorf Marktplatz
+2
+4.461
+4697.782
+23.027
+15.000
+
+[station]
+4302914
+171
+Krankenhaus
+11
+1.348
+4951.441
+10.506
+15.000
+
+[station]
+4302895
+189
+Ocean View
+12
+4.319
+5260.414
+23.339
+20.000
+
+[station]
+4302899
+194
+Festival Court
+8
+3.150
+5395.743
+24.067
+15.000
+
+[station]
+4302964
+211
+Gau?orf
+5
+3.182
+5725.922
+4.316
+10.000
+
+[station]
+4302946
+221
+Elsterplatz
+5
+3.236
+5944.742
+7.846
+20.000
+
+[station]
+702225
+227
+Bhf. Nordspitze
+3
+3.090
+6131.904
+10.068
+20.000
+
+[station]
+104
+243
+Bauernhof
+4
+5.110
+6465.462
+0.337
+20.000
+
+[station]
+507565
+251
+Bauernhof
+4
+1.037
+6583.439
+19.693
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+16.000
+

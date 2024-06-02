@@ -1,0 +1,25 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_gb(78-N73)-depot2
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+6.000
+

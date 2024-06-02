@@ -1,0 +1,223 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+68_mlp(68-68E)-gb(68)
+68: Grundorf Bay
+68
+
+.........................
+        Stations
+.........................
+
+[station]
+2057684
+13
+Mid-Levels Plaza
+322
+2.567
+154.063
+4.423
+0.000
+
+[station]
+2057685
+29
+Yan Lam Estate
+317
+4.343
+579.455
+23.271
+0.000
+
+[station]
+2057692
+43
+South Valley Hospital
+327
+3.249
+886.914
+0.728
+0.000
+
+[station]
+2057694
+47
+St. Stephen's School
+328
+3.133
+1179.189
+63.003
+0.000
+
+[station]
+2057698
+54
+The Great Hill Villa
+323
+3.180
+1458.003
+15.242
+0.000
+
+[station]
+2057712
+71
+Sunshine Villa
+322
+3.289
+1799.340
+23.857
+0.000
+
+[station]
+2057715
+83
+Booman Court
+324
+4.513
+2157.874
+22.382
+0.000
+
+[station]
+2057718
+92
+Mid-Levels Fire Station
+314
+3.203
+2592.186
+13.694
+0.000
+
+[station]
+1440897
+217
+Grundorf Tunnel Toll Plaza
+220
+0.952
+9705.717
+3.304
+20.000
+
+[station]
+46390
+285
+Vermilion Top
+30
+3.014
+13310.982
+14.063
+10.000
+
+[station]
+46387
+290
+Eastern Sport Ground
+30
+3.178
+13622.161
+80.670
+25.000
+
+[station]
+46386
+300
+Eastern Public Library
+31
+4.511
+13861.129
+24.126
+20.000
+
+[station]
+46355
+333
+Seaside Garden
+22
+3.022
+14517.405
+-0.209
+15.000
+
+[station]
+702257
+336
+Sliversea House
+23
+2.951
+14641.928
+76.317
+15.000
+
+[station]
+629420
+356
+Grundorf Bay
+23
+0.960
+15123.320
+22.201
+10.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+27.000
+
+[profile_man_arr_time]
+7
+8.000
+[profile_man_arr_time]
+8
+16.000
+[profile_man_arr_time]
+9
+21.000
+[profile]
+fast
+24.000
+
+[profile_man_arr_time]
+7
+6.000
+[profile_man_arr_time]
+8
+13.000
+[profile_man_arr_time]
+9
+18.000
+[profile]
+very fast
+22.000
+
+[profile_man_arr_time]
+7
+5.000
+[profile_man_arr_time]
+8
+13.000
+[profile_man_arr_time]
+9
+17.000
+[profile]
+super fast
+20.000
+
+[profile_man_arr_time]
+7
+4.500
+[profile_man_arr_time]
+8
+12.500
+[profile_man_arr_time]
+9
+15.500

@@ -1,0 +1,141 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+P1_nc(72-P1)-hs(P1)
+160: Hong Shing Port
+160
+
+.........................
+        Stations
+.........................
+
+[station]
+46351
+1
+Nottingham Court
+21
+2.282
+5.743
+5.743
+0.000
+
+[station]
+5335826
+30
+North Industrial Centre
+21
+3.855
+339.997
+0.750
+0.000
+
+[station]
+5335825
+45
+Submontane Village
+16
+4.381
+657.032
+21.700
+0.000
+
+[station]
+5335824
+62
+Yellow House 1
+26
+3.076
+1088.871
+13.866
+0.000
+
+[station]
+5335823
+72
+Pine Village
+28
+4.478
+1477.041
+22.027
+0.000
+
+[station]
+5335822
+86
+Vermilion Top
+30
+3.020
+1961.971
+12.221
+0.000
+
+[station]
+5335821
+91
+Eastern Sport Ground
+30
+3.066
+2272.875
+78.555
+0.000
+
+[station]
+4211530
+101
+Eastern Public Library
+31
+4.534
+2511.885
+22.051
+0.000
+
+[station]
+1440896
+187
+Grundorf Tunnel Toll Plaza
+220
+0.896
+7058.274
+4.960
+20.000
+
+[station]
+4045064
+342
+Hong Shing Port
+311
+0.911
+18219.018
+8.475
+150.000
+
+[station]
+4045065
+347
+Hong Shing Port Terminus
+311
+1.061
+18333.655
+3.616
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+23.000
+
+[profile_man_arr_time]
+7
+7.000
+[profile_man_arr_time]
+8
+10.000

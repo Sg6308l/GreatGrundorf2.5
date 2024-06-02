@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_depot3-svrs(N68)
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+[station]
+2354518
+106
+South Valley Railway Station
+271
+5.825
+2934.369
+8.638
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+7.000
+

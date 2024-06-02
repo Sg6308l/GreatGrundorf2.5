@@ -1,0 +1,391 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+70_yl(70)-wf(70)
+70: Wah Fu Estate
+70
+
+.........................
+        Stations
+.........................
+
+[station]
+1896315
+1
+Yat Lam Estate
+320
+1.592
+0.000
+-2.933
+0.000
+
+[station]
+1909114
+22
+Lakeview Mansion
+318
+4.417
+511.334
+22.799
+0.000
+
+[station]
+1892372
+39
+South Valley Sport Centres
+274
+4.388
+890.916
+24.224
+0.000
+
+[station]
+1843171
+54
+South Valley Railway Station
+273
+6.582
+1339.196
+2.555
+10.000
+
+[station]
+1909117
+83
+Ching Lam Estate
+270
+4.306
+1951.893
+24.412
+10.000
+
+[station]
+5309763
+90
+Central Government Office
+268
+4.431
+2193.709
+23.228
+8.000
+
+[station]
+1909119
+103
+Wellson Wayside
+265
+4.048
+2580.983
+25.492
+2.000
+
+[station]
+4348893
+136
+St. Paul's Cathedral
+264
+1.639
+3433.493
+15.262
+15.000
+
+[station]
+1909121
+163
+Southford Holiday Camp
+262
+4.017
+4045.208
+26.767
+15.000
+
+[station]
+1909123
+204
+Clover Bay Village
+254
+3.911
+5228.289
+25.109
+5.000
+
+[station]
+1796369
+225
+Grundorf Country Park
+249
+3.851
+6308.288
+26.308
+15.000
+
+[station]
+1909125
+240
+Glassrock
+246
+4.402
+6893.187
+24.397
+10.000
+
+[station]
+1909127
+266
+Bowen Warehouse
+221
+1.229
+8398.897
+17.278
+10.000
+
+[station]
+1896356
+293
+Grundorf Container Terminals
+222
+1.872
+8935.416
+13.547
+3.000
+
+[station]
+1896354
+307
+Logistic Centre 2
+222
+4.501
+9183.626
+21.441
+15.000
+
+[station]
+1896352
+320
+Logistic Centre 1
+241
+4.481
+9798.084
+21.609
+10.000
+
+[station]
+1909129
+349
+Siu Chung Sun Tsuen
+197
+4.008
+10639.886
+25.441
+5.000
+
+[station]
+1909132
+372
+Corner Lodges
+191
+4.325
+11214.782
+23.641
+5.000
+
+[station]
+1909133
+388
+Rose Sunnyside
+189
+4.440
+11686.536
+23.475
+5.000
+
+[station]
+4149592
+415
+Grundorf Prison
+187
+3.934
+12247.165
+26.223
+1.000
+
+[station]
+1909135
+429
+Newspring Park
+185
+3.299
+12677.261
+5.301
+15.000
+
+[station]
+348297
+449
+Jumbo Garden
+182
+4.517
+13231.848
+24.220
+25.000
+
+[station]
+361730
+468
+Piper Tsuen
+92
+4.466
+13841.472
+22.692
+5.000
+
+[station]
+378993
+477
+Lauma Terrace
+93
+4.476
+14179.551
+23.472
+5.000
+
+[station]
+712970
+489
+2 Lauma Terrace
+39
+4.481
+14467.623
+21.684
+10.000
+
+[station]
+691510
+496
+Fuk Wo Estate
+38
+1.243
+14714.372
+17.533
+30.000
+
+[station]
+53241
+503
+Western College
+15
+3.161
+15090.402
+78.358
+10.000
+
+[station]
+53447
+507
+Greensleeves Village
+13
+3.084
+15357.255
+37.070
+8.000
+
+[station]
+46428
+528
+Submontane Village
+16
+4.420
+15949.462
+23.497
+8.000
+
+[station]
+46350
+545
+North Industrial Centre
+21
+3.012
+16382.617
+6.070
+15.000
+
+[station]
+53436
+562
+Wah Fu Carpark
+21
+1.129
+16559.095
+-1.749
+25.000
+
+[station]
+53424
+572
+Vista House
+32
+3.143
+16775.646
+-0.922
+20.000
+
+[station]
+4326931
+589
+Eastern Public Library
+31
+4.394
+17085.732
+21.964
+20.000
+
+[station]
+84488
+601
+Wah Fu Estate
+31
+1.281
+17326.212
+26.303
+30.000
+
+[station]
+750632
+604
+Wah Fu Estate Terminus
+31
+1.033
+17399.670
+26.761
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+45.000
+
+[profile]
+fast
+41.000
+
+[profile]
+very fast
+36.000
+
+[profile]
+super fast
+34.000
+
+[profile]
+last departure
+25.000
+

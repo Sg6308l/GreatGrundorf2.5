@@ -1,0 +1,128 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+P2_hs(P1)-mlp(P2)
+170: Mid-Levels Plaza
+170
+
+.........................
+        Stations
+.........................
+
+[station]
+4045071
+1
+Hong Shing Port
+311
+1.165
+0.742
+0.742
+0.000
+
+[station]
+2057719
+130
+Mid-Levels Fire Station
+314
+3.165
+7011.397
+23.754
+15.000
+
+[station]
+2057716
+139
+Booman Court
+325
+4.376
+7392.648
+23.273
+20.000
+
+[station]
+2057713
+151
+Sunshine Villa
+322
+3.133
+7743.452
+6.077
+10.000
+
+[station]
+2057699
+168
+The Great Hill Villa
+323
+3.162
+8141.616
+15.429
+10.000
+
+[station]
+2057695
+175
+St. Stephen's School
+328
+3.145
+8307.485
+34.999
+5.000
+
+[station]
+2057690
+179
+South Valley Hospital
+327
+3.216
+8611.603
+79.117
+10.000
+
+[station]
+2057687
+193
+Yan Lam Estate
+317
+4.384
+8973.238
+23.742
+20.000
+
+[station]
+2057680
+213
+Mid-Levels Plaza
+322
+4.787
+9508.935
+4.309
+20.000
+
+[station]
+2057678
+220
+Mid-Levels Plaza Terminus
+322
+1.337
+9599.411
+20.196
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+17.000
+
+[profile_man_arr_time]
+1
+10.000

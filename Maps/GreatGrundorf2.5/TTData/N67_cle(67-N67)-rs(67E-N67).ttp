@@ -1,0 +1,265 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+N67_cle(67-N67)-rs(67E-N67)
+N67: River Side
+N67
+
+.........................
+        Stations
+.........................
+
+[station]
+1892366
+1
+Ching Lam Estate
+270
+1.533
+0.000
+-2.322
+0.000
+
+[station]
+1843181
+38
+South Valley Railway Station
+271
+0.654
+743.365
+14.805
+20.000
+
+[station]
+1892370
+57
+South Valley Sport Centres
+315
+4.272
+1264.556
+24.058
+10.000
+
+[station]
+2057775
+73
+South Valley Lake Park
+314
+3.150
+1628.059
+23.962
+2.000
+
+[station]
+2057719
+88
+Mid-Levels Fire Station
+314
+3.165
+2020.207
+23.754
+15.000
+
+[station]
+2057716
+97
+Booman Court
+325
+4.376
+2401.458
+23.273
+20.000
+
+[station]
+2057713
+109
+Sunshine Villa
+322
+3.133
+2752.262
+6.077
+10.000
+
+[station]
+2057699
+126
+The Great Hill Villa
+323
+3.162
+3150.427
+15.429
+10.000
+
+[station]
+2057695
+133
+St. Stephen's School
+328
+3.145
+3316.297
+34.999
+5.000
+
+[station]
+2057690
+137
+South Valley Hospital
+327
+3.216
+3620.415
+79.117
+10.000
+
+[station]
+2357855
+151
+Yan Lam Estate
+317
+4.358
+3981.028
+22.720
+5.000
+
+[station]
+2357843
+179
+Mid-Levels Plaza
+322
+5.238
+4605.908
+3.842
+5.000
+
+[station]
+2357851
+193
+Red Wall Garden
+322
+1.423
+4833.835
+12.167
+5.000
+
+[station]
+2057777
+208
+South Valley Lake Park
+315
+3.177
+5222.849
+59.641
+2.000
+
+[station]
+1909115
+229
+Lakeview Mansion
+318
+4.402
+5774.621
+23.460
+20.000
+
+[station]
+2361173
+242
+South Valley Magistracy
+321
+4.438
+6126.995
+22.886
+8.000
+
+[station]
+2361177
+253
+Greenpark Village
+330
+4.355
+6533.598
+22.489
+5.000
+
+[station]
+2354375
+266
+River Side Market
+332
+4.530
+6921.428
+22.275
+15.000
+
+[station]
+2354373
+285
+South Valley Bus Depot
+338
+4.560
+7437.463
+22.683
+10.000
+
+[station]
+2354372
+291
+Institute of Biotechnology
+335
+4.480
+7761.232
+23.452
+10.000
+
+[station]
+4073720
+309
+Sunrise Garden
+336
+1.269
+8128.876
+21.669
+2.000
+
+[station]
+2354390
+327
+Yacht Club Villa
+337
+5.477
+8553.484
+28.096
+5.000
+
+[station]
+2354388
+337
+River Side
+333
+1.306
+8858.875
+24.381
+20.000
+
+[station]
+2354384
+343
+River Side
+333
+0.583
+8984.718
+23.449
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+23.000
+

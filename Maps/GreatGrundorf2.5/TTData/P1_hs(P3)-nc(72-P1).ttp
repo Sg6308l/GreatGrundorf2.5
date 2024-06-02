@@ -1,0 +1,131 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+P1_hs(P3)-nc(72-P1)
+160: Nottingham Court
+160
+
+.........................
+        Stations
+.........................
+
+[station]
+4045072
+1
+Hong Shing Port
+311
+1.118
+0.900
+0.900
+0.000
+
+[station]
+1440897
+166
+Grundorf Tunnel Toll Plaza
+220
+0.952
+11151.353
+3.304
+20.000
+
+[station]
+46385
+254
+Eastern Public Library
+31
+4.450
+15867.243
+24.126
+20.000
+
+[station]
+46388
+266
+Eastern Sport Ground
+30
+3.070
+16113.051
+17.831
+10.000
+
+[station]
+46389
+272
+Vermilion Top
+30
+3.216
+16274.536
+9.390
+8.000
+
+[station]
+123497
+287
+Pine Village
+28
+4.483
+16869.230
+24.183
+3.000
+
+[station]
+123504
+297
+Yellow House 3
+26
+3.159
+17142.372
+12.323
+15.000
+
+[station]
+46428
+312
+Submontane Village
+16
+4.420
+17628.767
+23.497
+8.000
+
+[station]
+46350
+329
+North Industrial Centre
+21
+3.012
+18061.920
+6.070
+15.000
+
+[station]
+53418
+361
+Nottingham Court Terminus
+21
+1.362
+18480.432
+1.299
+15.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+23.000
+
+[profile_man_arr_time]
+1
+13.000
+[profile_man_arr_time]
+2
+16.000

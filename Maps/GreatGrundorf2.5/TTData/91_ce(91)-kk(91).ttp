@@ -1,0 +1,185 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+91_ce(91)-kk(91)
+91: Krankenhaus
+91
+
+.........................
+        Stations
+.........................
+
+[station]
+331378
+1
+Cemetery of Grundorf
+180
+1.944
+20.708
+20.708
+0.000
+
+[station]
+331377
+14
+Lower Cemetery of Grundorf
+180
+4.380
+398.948
+24.168
+5.000
+
+[station]
+712963
+42
+Jumbo Garden
+182
+4.475
+1288.726
+23.046
+20.000
+
+[station]
+712965
+61
+Piper Tsuen
+92
+4.499
+1898.285
+21.455
+1.000
+
+[station]
+712967
+70
+Lauma Terrace
+93
+4.516
+2236.509
+22.379
+5.000
+
+[station]
+712970
+82
+2 Lauma Terrace
+39
+4.481
+2525.674
+21.684
+10.000
+
+[station]
+712972
+89
+Fuk Wo Estate
+38
+1.261
+2770.950
+16.061
+30.000
+
+[station]
+702240
+97
+W. Sports Ground
+6
+3.071
+3113.886
+37.918
+12.000
+
+[station]
+702241
+105
+Mill Court
+6
+1.311
+3379.741
+19.275
+15.000
+
+[station]
+702242
+117
+Nordspitze
+3
+3.260
+3702.629
+35.318
+10.000
+
+[station]
+702243
+124
+Elsterplatz
+5
+3.195
+3881.379
+3.308
+10.000
+
+[station]
+702244
+142
+Western Industrial Training Centre
+0
+4.501
+4357.729
+22.318
+10.000
+
+[station]
+702245
+158
+Tianing Estate Carpark
+9
+1.216
+4785.728
+40.873
+25.000
+
+[station]
+4889
+170
+Einsteindorf Marktplatz
+2
+4.461
+5092.003
+23.027
+15.000
+
+[station]
+4890
+182
+Krankenhaus
+12
+1.364
+5351.604
+16.448
+10.000
+
+[station]
+672442
+186
+Krankenhaus
+12
+1.096
+5407.391
+16.135
+10.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+14.000
+

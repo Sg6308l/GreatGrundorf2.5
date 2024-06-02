@@ -1,0 +1,185 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+902 (Uni - S.V)
+902: Yat Lam Estate
+902
+
+.........................
+        Stations
+.........................
+
+[station]
+5644510
+0
+Uni Of Grundorf
+199
+2.852
+37.264
+37.264
+0.000
+
+[station]
+360970
+35
+Western Coast
+196
+0.779
+603.482
+10.042
+5.000
+
+[station]
+380194
+61
+Davis International School
+194
+0.643
+1223.387
+8.457
+8.000
+
+[station]
+470028
+76
+Official Lodge
+193
+1.096
+1522.361
+7.611
+0.000
+
+[station]
+470022
+89
+Willow Garden
+94
+1.058
+2018.485
+7.954
+1.000
+
+[station]
+712968
+110
+Lauma Terrace
+93
+0.749
+2372.261
+8.159
+0.000
+
+[station]
+712966
+123
+Piper Tsuen
+92
+0.811
+2690.619
+8.217
+0.000
+
+[station]
+712964
+146
+Jumbo Garden
+182
+0.827
+3323.572
+8.620
+0.000
+
+[station]
+331375
+176
+Police Dormitory
+177
+0.918
+3960.934
+9.882
+15.000
+
+[station]
+702235
+192
+Ocean Villa
+176
+0.860
+4507.035
+9.183
+0.000
+
+[station]
+702236
+209
+Tak Wo Estate
+47
+0.672
+5063.663
+7.799
+20.000
+
+[station]
+5200573
+277
+Grundorf Tunnel Toll Plaza
+220
+0.939
+8620.985
+6.927
+20.000
+
+[station]
+5644512
+404
+South Valley Railway Station
+271
+13.350
+15208.581
+-50.626
+0.000
+
+[station]
+1892370
+420
+South Valley Sport Centres
+315
+0.600
+15709.381
+9.675
+10.000
+
+[station]
+1909115
+442
+Lakeview Mansion
+318
+0.730
+16150.113
+9.077
+20.000
+
+[station]
+5644526
+460
+Yat Lam Estate
+320
+0.937
+16496.390
+10.510
+100.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+40.000
+

@@ -1,0 +1,78 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+A4_ap(A3)-hs(A4)
+858: Hong Shing Port
+858
+
+.........................
+        Stations
+.........................
+
+[station]
+4613925
+2
+Airport (Ground Transportation Centre)
+61
+1.035
+31.965
+-2.035
+0.000
+
+[station]
+4666943
+49
+Passenger Terminal 1
+66
+5.597
+911.238
+27.388
+0.000
+
+[station]
+1440895
+166
+Grundorf Tunnel Toll Plaza
+220
+0.802
+7865.876
+7.334
+20.000
+
+[station]
+4045064
+323
+Hong Shing Port
+311
+0.911
+19043.248
+8.475
+150.000
+
+[station]
+4045068
+331
+Hong Shing Port Terminus
+311
+1.133
+19187.102
+9.040
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+21.000
+
+[profile_man_arr_time]
+2
+9.000

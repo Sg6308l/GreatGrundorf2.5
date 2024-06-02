@@ -1,0 +1,890 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[userallowed]
+
+[priority]
+2
+------------------------------------
+
+[newtour]
+SP-01
+Depot 1
+1023
+
+------------------------------------
+
+  Dep.: 24:0:0
+[addtrip]
+ES11 D1
+0
+1440.000
+
+  Dep.: 24:10:0
+[addtrip]
+ES11 D2
+0
+1450.000
+
+  Dep.: 24:30:0
+[addtrip]
+ES11 D1
+0
+1470.000
+
+  Dep.: 24:40:0
+[addtrip]
+ES11 D2
+0
+1480.000
+
+  Dep.: 25:0:0
+[addtrip]
+ES11 D1
+0
+1500.000
+
+  Dep.: 25:10:0
+[addtrip]
+ES11 D2
+0
+1510.000
+
+  Dep.: 25:30:0
+[addtrip]
+ES11 D1
+0
+1530.000
+
+  Dep.: 25:40:0
+[addtrip]
+ES11 D2
+0
+1540.000
+
+  Dep.: 29:0:0
+[addtrip]
+ES11 D1
+0
+1740.000
+
+  Dep.: 29:10:0
+[addtrip]
+ES11 D2
+0
+1750.000
+
+  Dep.: 29:30:0
+[addtrip]
+ES11 D1
+0
+1770.000
+
+  Dep.: 29:40:0
+[addtrip]
+ES11 D2
+0
+1780.000
+
+  Dep.: 30:0:0
+[addtrip]
+ES11 D1
+0
+1800.000
+
+  Dep.: 30:10:0
+[addtrip]
+ES11 D2
+0
+1810.000
+
+  Dep.: 30:30:0
+[addtrip]
+ES11 D1
+0
+1830.000
+
+  Dep.: 30:40:0
+[addtrip]
+ES11 D2
+0
+1840.000
+
+  Dep.: 31:0:0
+[addtrip]
+ES11 D1
+0
+1860.000
+
+  Dep.: 31:10:0
+[addtrip]
+ES11 D2
+0
+1870.000
+
+  Dep.: 31:30:0
+[addtrip]
+ES11 D1
+0
+1890.000
+
+  Dep.: 31:40:0
+[addtrip]
+ES11 D2
+0
+1900.000
+
+  Dep.: 32:0:0
+[addtrip]
+ES11 D1
+0
+1920.000
+
+  Dep.: 32:10:0
+[addtrip]
+ES11 D2
+0
+1930.000
+
+  Dep.: 32:30:0
+[addtrip]
+ES11 D1
+0
+1950.000
+
+  Dep.: 32:40:0
+[addtrip]
+ES11 D2
+0
+1960.000
+
+  Dep.: 33:0:0
+[addtrip]
+ES11 D1
+0
+1980.000
+
+  Dep.: 33:10:0
+[addtrip]
+ES11 D2
+0
+1990.000
+
+  Dep.: 33:30:0
+[addtrip]
+ES11 D1
+0
+2010.000
+
+  Dep.: 33:40:0
+[addtrip]
+ES11 D2
+0
+2020.000
+
+  Dep.: 34:0:0
+[addtrip]
+ES11 D1
+0
+2040.000
+
+  Dep.: 34:10:0
+[addtrip]
+ES11 D2
+0
+2050.000
+
+  Dep.: 34:30:0
+[addtrip]
+ES11 D1
+0
+2070.000
+
+  Dep.: 34:40:0
+[addtrip]
+ES11 D2
+0
+2080.000
+
+  Dep.: 35:0:0
+[addtrip]
+ES11 D1
+0
+2100.000
+
+  Dep.: 35:10:0
+[addtrip]
+ES11 D2
+0
+2110.000
+
+  Dep.: 35:30:0
+[addtrip]
+ES11 D1
+0
+2130.000
+
+  Dep.: 35:40:0
+[addtrip]
+ES11 D2
+0
+2140.000
+
+  Dep.: 36:0:0
+[addtrip]
+ES11 D1
+0
+2160.000
+
+  Dep.: 36:10:0
+[addtrip]
+ES11 D2
+0
+2170.000
+
+  Dep.: 36:30:0
+[addtrip]
+ES11 D1
+0
+2190.000
+
+  Dep.: 36:40:0
+[addtrip]
+ES11 D2
+0
+2200.000
+
+  Dep.: 37:0:0
+[addtrip]
+ES11 D1
+0
+2220.000
+
+  Dep.: 37:10:0
+[addtrip]
+ES11 D2
+0
+2230.000
+
+  Dep.: 37:30:0
+[addtrip]
+ES11 D1
+0
+2250.000
+
+  Dep.: 37:40:0
+[addtrip]
+ES11 D2
+0
+2260.000
+
+  Dep.: 38:0:0
+[addtrip]
+ES11 D1
+0
+2280.000
+
+  Dep.: 38:10:0
+[addtrip]
+ES11 D2
+0
+2290.000
+
+  Dep.: 38:30:0
+[addtrip]
+ES11 D1
+0
+2310.000
+
+  Dep.: 38:40:0
+[addtrip]
+ES11 D2
+0
+2320.000
+
+  Dep.: 39:0:0
+[addtrip]
+ES11 D1
+0
+2340.000
+
+  Dep.: 39:10:0
+[addtrip]
+ES11 D2
+0
+2350.000
+
+  Dep.: 39:30:0
+[addtrip]
+ES11 D1
+0
+2370.000
+
+  Dep.: 39:40:0
+[addtrip]
+ES11 D2
+0
+2380.000
+
+  Dep.: 40:0:0
+[addtrip]
+ES11 D1
+0
+2400.000
+
+  Dep.: 40:10:0
+[addtrip]
+ES11 D2
+0
+2410.000
+
+  Dep.: 40:30:0
+[addtrip]
+ES11 D1
+0
+2430.000
+
+  Dep.: 40:40:0
+[addtrip]
+ES11 D2
+0
+2440.000
+
+  Dep.: 41:0:0
+[addtrip]
+ES11 D1
+0
+2460.000
+
+  Dep.: 41:10:0
+[addtrip]
+ES11 D2
+0
+2470.000
+
+  Dep.: 41:30:0
+[addtrip]
+ES11 D1
+0
+2490.000
+
+  Dep.: 41:40:0
+[addtrip]
+ES11 D2
+0
+2500.000
+
+  Dep.: 42:0:0
+[addtrip]
+ES11 D1
+0
+2520.000
+
+  Dep.: 42:10:0
+[addtrip]
+ES11 D2
+0
+2530.000
+
+  Dep.: 42:30:0
+[addtrip]
+ES11 D1
+0
+2550.000
+
+  Dep.: 42:40:0
+[addtrip]
+ES11 D2
+0
+2560.000
+
+  Dep.: 43:0:0
+[addtrip]
+ES11 D1
+0
+2580.000
+
+  Dep.: 43:10:0
+[addtrip]
+ES11 D2
+0
+2590.000
+
+  Dep.: 43:30:0
+[addtrip]
+ES11 D1
+0
+2610.000
+
+  Dep.: 43:40:0
+[addtrip]
+ES11 D2
+0
+2620.000
+
+  Dep.: 44:0:0
+[addtrip]
+ES11 D1
+0
+2640.000
+
+  Dep.: 44:10:0
+[addtrip]
+ES11 D2
+0
+2650.000
+
+  Dep.: 44:30:0
+[addtrip]
+ES11 D1
+0
+2670.000
+
+  Dep.: 44:40:0
+[addtrip]
+ES11 D2
+0
+2680.000
+
+  Dep.: 45:0:0
+[addtrip]
+ES11 D1
+0
+2700.000
+
+  Dep.: 45:10:0
+[addtrip]
+ES11 D2
+0
+2710.000
+
+  Dep.: 45:30:0
+[addtrip]
+ES11 D1
+0
+2730.000
+
+  Dep.: 45:40:0
+[addtrip]
+ES11 D2
+0
+2740.000
+
+  Dep.: 46:0:0
+[addtrip]
+ES11 D1
+0
+2760.000
+
+  Dep.: 46:10:0
+[addtrip]
+ES11 D2
+0
+2770.000
+
+  Dep.: 46:30:0
+[addtrip]
+ES11 D1
+0
+2790.000
+
+  Dep.: 46:40:0
+[addtrip]
+ES11 D2
+0
+2800.000
+
+  Dep.: 47:0:0
+[addtrip]
+ES11 D1
+0
+2820.000
+
+  Dep.: 47:10:0
+[addtrip]
+ES11 D2
+0
+2830.000
+
+------------------------------------
+
+[newtour]
+SP-02
+Depot 1
+1023
+
+------------------------------------
+
+  Dep.: 0:0:0
+[addtrip]
+ES12
+0
+0.000
+
+  Dep.: 0:30:0
+[addtrip]
+ES12
+0
+30.000
+
+  Dep.: 1:0:0
+[addtrip]
+ES12
+0
+60.000
+
+  Dep.: 5:0:0
+[addtrip]
+ES12
+0
+300.000
+
+  Dep.: 5:30:0
+[addtrip]
+ES12
+0
+330.000
+
+  Dep.: 6:0:0
+[addtrip]
+ES12
+0
+360.000
+
+  Dep.: 6:30:0
+[addtrip]
+ES12
+0
+390.000
+
+  Dep.: 7:0:0
+[addtrip]
+ES12
+0
+420.000
+
+  Dep.: 7:30:0
+[addtrip]
+ES12
+0
+450.000
+
+  Dep.: 8:0:0
+[addtrip]
+ES12
+0
+480.000
+
+  Dep.: 8:30:0
+[addtrip]
+ES12
+0
+510.000
+
+  Dep.: 9:0:0
+[addtrip]
+ES12
+0
+540.000
+
+  Dep.: 9:30:0
+[addtrip]
+ES12
+0
+570.000
+
+  Dep.: 10:0:0
+[addtrip]
+ES12
+0
+600.000
+
+  Dep.: 10:30:0
+[addtrip]
+ES12
+0
+630.000
+
+  Dep.: 11:0:0
+[addtrip]
+ES12
+0
+660.000
+
+  Dep.: 11:30:0
+[addtrip]
+ES12
+0
+690.000
+
+  Dep.: 12:0:0
+[addtrip]
+ES12
+0
+720.000
+
+  Dep.: 12:30:0
+[addtrip]
+ES12
+0
+750.000
+
+  Dep.: 13:0:0
+[addtrip]
+ES12
+0
+780.000
+
+  Dep.: 13:30:0
+[addtrip]
+ES12
+0
+810.000
+
+  Dep.: 14:0:0
+[addtrip]
+ES12
+0
+840.000
+
+  Dep.: 14:30:0
+[addtrip]
+ES12
+0
+870.000
+
+  Dep.: 15:0:0
+[addtrip]
+ES12
+0
+900.000
+
+  Dep.: 15:30:0
+[addtrip]
+ES12
+0
+930.000
+
+  Dep.: 16:0:0
+[addtrip]
+ES12
+0
+960.000
+
+  Dep.: 16:30:0
+[addtrip]
+ES12
+0
+990.000
+
+  Dep.: 17:0:0
+[addtrip]
+ES12
+0
+1020.000
+
+  Dep.: 17:30:0
+[addtrip]
+ES12
+0
+1050.000
+
+  Dep.: 18:0:0
+[addtrip]
+ES12
+0
+1080.000
+
+  Dep.: 18:30:0
+[addtrip]
+ES12
+0
+1110.000
+
+  Dep.: 19:0:0
+[addtrip]
+ES12
+0
+1140.000
+
+  Dep.: 19:30:0
+[addtrip]
+ES12
+0
+1170.000
+
+  Dep.: 20:0:0
+[addtrip]
+ES12
+0
+1200.000
+
+  Dep.: 20:30:0
+[addtrip]
+ES12
+0
+1230.000
+
+  Dep.: 21:0:0
+[addtrip]
+ES12
+0
+1260.000
+
+  Dep.: 21:30:0
+[addtrip]
+ES12
+0
+1290.000
+
+  Dep.: 22:0:0
+[addtrip]
+ES12
+0
+1320.000
+
+  Dep.: 22:30:0
+[addtrip]
+ES12
+0
+1350.000
+
+  Dep.: 23:0:0
+[addtrip]
+ES12
+0
+1380.000
+
+  Dep.: 23:30:0
+[addtrip]
+ES12
+0
+1410.000
+
+------------------------------------
+
+[newtour]
+SP-03
+Depot 1
+1023
+
+------------------------------------
+
+  Dep.: 0:0:0
+[addtrip]
+ES13
+0
+0.000
+
+  Dep.: 6:0:0
+[addtrip]
+ES13
+0
+360.000
+
+  Dep.: 7:0:0
+[addtrip]
+ES13
+0
+420.000
+
+  Dep.: 8:0:0
+[addtrip]
+ES13
+0
+480.000
+
+  Dep.: 9:0:0
+[addtrip]
+ES13
+0
+540.000
+
+  Dep.: 10:0:0
+[addtrip]
+ES13
+0
+600.000
+
+  Dep.: 11:0:0
+[addtrip]
+ES13
+0
+660.000
+
+  Dep.: 12:0:0
+[addtrip]
+ES13
+0
+720.000
+
+  Dep.: 13:0:0
+[addtrip]
+ES13
+0
+780.000
+
+  Dep.: 14:0:0
+[addtrip]
+ES13
+0
+840.000
+
+  Dep.: 15:0:0
+[addtrip]
+ES13
+0
+900.000
+
+  Dep.: 16:0:0
+[addtrip]
+ES13
+0
+960.000
+
+  Dep.: 17:0:0
+[addtrip]
+ES13
+0
+1020.000
+
+  Dep.: 18:0:0
+[addtrip]
+ES13
+0
+1080.000
+
+  Dep.: 19:0:0
+[addtrip]
+ES13
+0
+1140.000
+
+  Dep.: 20:0:0
+[addtrip]
+ES13
+0
+1200.000
+
+  Dep.: 21:0:0
+[addtrip]
+ES13
+0
+1260.000
+
+  Dep.: 22:0:0
+[addtrip]
+ES13
+0
+1320.000
+
+  Dep.: 23:0:0
+[addtrip]
+ES13
+0
+1380.000
+

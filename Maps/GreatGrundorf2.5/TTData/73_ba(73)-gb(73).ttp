@@ -1,0 +1,157 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+73_ba(73)-gb(73)
+73: Grundorf Bay
+73
+
+.........................
+        Stations
+.........................
+
+[station]
+507575
+8
+Bauernhof
+4
+2.245
+107.153
+27.713
+0.000
+
+[station]
+4211531
+27
+Nordspitze
+3
+3.253
+484.726
+34.184
+0.000
+
+[station]
+763
+34
+Elsterplatz
+5
+3.190
+665.798
+4.496
+20.000
+
+[station]
+53206
+52
+Western Industrial Training Centre
+0
+4.501
+1142.066
+23.424
+15.000
+
+[station]
+53256
+71
+Tianing Estate
+9
+1.496
+1577.373
+3.764
+15.000
+
+[station]
+46348
+81
+Jade Village
+20
+1.347
+1989.453
+34.644
+10.000
+
+[station]
+46350
+97
+North Industrial Centre
+21
+3.012
+2401.237
+6.070
+15.000
+
+[station]
+53436
+113
+Wah Fu Carpark
+21
+1.123
+2592.894
+18.432
+25.000
+
+[station]
+53424
+124
+Vista House
+32
+3.143
+2794.263
+-0.922
+20.000
+
+[station]
+46355
+157
+Seaside Garden
+22
+3.022
+3495.344
+-0.209
+15.000
+
+[station]
+702257
+160
+Sliversea House
+23
+2.951
+3619.865
+76.317
+15.000
+
+[station]
+629421
+180
+Grundorf Bay
+23
+0.544
+4103.091
+26.602
+10.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+15.000
+
+[profile]
+fast
+14.000
+
+[profile]
+very fast
+12.000
+
+[profile]
+super fast
+11.000
+

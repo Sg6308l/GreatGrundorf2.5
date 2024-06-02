@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_depot1-jg(71)
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+[station]
+1389233
+123
+Jumbo Garden
+178
+1.017
+3455.665
+21.276
+25.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+6.000
+

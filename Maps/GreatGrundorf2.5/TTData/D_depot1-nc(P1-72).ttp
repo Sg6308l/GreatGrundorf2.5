@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_depot1-nc(P1-72)
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+[station]
+53418
+32
+Nottingham Court Terminus
+21
+1.362
+753.296
+1.299
+15.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+3.000
+

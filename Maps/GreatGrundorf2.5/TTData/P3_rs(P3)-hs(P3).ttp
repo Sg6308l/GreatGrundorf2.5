@@ -1,0 +1,158 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+P3_rs(P3)-hs(P3)
+950: Hong Shing Port
+950
+
+.........................
+        Stations
+.........................
+
+[station]
+2354381
+1
+River Side
+333
+0.782
+22.982
+22.982
+0.000
+
+[station]
+2354389
+17
+Yacht Club Villa
+337
+5.645
+313.063
+10.988
+0.000
+
+[station]
+4073719
+35
+Sunrise Garden
+336
+1.267
+719.078
+6.192
+0.000
+
+[station]
+2354371
+53
+Institute of Biotechnology
+335
+4.516
+1142.657
+23.013
+0.000
+
+[station]
+2354374
+59
+South Valley Bus Depot
+334
+4.526
+1346.299
+23.156
+0.000
+
+[station]
+2354376
+76
+River Side Market
+334
+4.462
+1827.770
+22.114
+1.000
+
+[station]
+2361176
+91
+Greenpark Village
+330
+4.413
+2321.636
+22.632
+0.000
+
+[station]
+2361175
+100
+South Valley Magistracy
+321
+4.444
+2640.588
+22.584
+0.000
+
+[station]
+1909114
+120
+Lakeview Mansion
+318
+4.417
+3176.221
+22.799
+0.000
+
+[station]
+1892372
+137
+South Valley Sport Centres
+274
+4.388
+3555.803
+24.224
+0.000
+
+[station]
+1843168
+154
+South Valley Railway Station
+271
+6.568
+4060.548
+-0.980
+0.000
+
+[station]
+4045064
+289
+Hong Shing Port
+311
+0.911
+10884.342
+8.475
+150.000
+
+[station]
+4045067
+297
+Hong Shing Port Terminus
+311
+1.034
+11028.497
+3.140
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+22.000
+
+[profile_man_arr_time]
+10
+9.000

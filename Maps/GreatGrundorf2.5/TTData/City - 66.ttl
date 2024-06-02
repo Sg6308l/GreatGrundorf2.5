@@ -1,0 +1,182 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+66 - 01
+Depot 1
+832
+
+------------------------------------
+
+  Dep.: 7:50:0
+[addtrip]
+D_depot3-svrs(N68)
+0
+470.000
+
+  Dep.: 8:0:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+480.000
+
+  Dep.: 8:30:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+510.000
+
+  Dep.: 9:0:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+540.000
+
+  Dep.: 9:30:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+570.000
+
+  Dep.: 10:0:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+600.000
+
+  Dep.: 10:30:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+630.000
+
+  Dep.: 11:0:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+660.000
+
+  Dep.: 11:30:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+690.000
+
+  Dep.: 12:0:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+720.000
+
+  Dep.: 12:30:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+750.000
+
+  Dep.: 13:0:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+780.000
+
+  Dep.: 13:30:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+810.000
+
+  Dep.: 14:0:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+840.000
+
+  Dep.: 14:30:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+870.000
+
+  Dep.: 15:0:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+900.000
+
+  Dep.: 15:30:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+930.000
+
+  Dep.: 16:0:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+960.000
+
+  Dep.: 16:30:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+990.000
+
+  Dep.: 17:0:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+1020.000
+
+  Dep.: 17:30:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+1050.000
+
+  Dep.: 18:0:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+1080.000
+
+  Dep.: 18:30:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+1110.000
+
+  Dep.: 19:0:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+1140.000
+
+  Dep.: 19:30:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+1170.000
+
+  Dep.: 20:0:0
+[addtrip]
+66_br(66)-svrs(N68)
+0
+1200.000
+
+  Dep.: 20:30:0
+[addtrip]
+D_svrs(N68)-depot3
+0
+1230.000
+

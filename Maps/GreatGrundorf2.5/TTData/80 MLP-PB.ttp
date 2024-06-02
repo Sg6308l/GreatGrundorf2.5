@@ -1,0 +1,315 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+80 MLP - PB
+80: Peninsula Beach
+80
+
+.........................
+        Stations
+.........................
+
+[station]
+2057675
+0
+Mid-Levels Plaza Terminus
+322
+1.277
+23.972
+23.972
+0.000
+
+[station]
+2057683
+12
+Mid-Levels Plaza
+322
+7.442
+133.551
+-16.177
+0.000
+
+[station]
+2057685
+30
+Yan Lam Estate
+317
+0.671
+603.160
+8.888
+0.000
+
+[station]
+2057689
+46
+South Valley Hospital
+327
+3.244
+889.268
+1.760
+2.000
+
+[station]
+2057693
+50
+St. Stephen's School
+328
+3.175
+1181.547
+64.039
+1.000
+
+[station]
+2057697
+58
+The Great Hill Villa
+323
+3.313
+1444.435
+-6.370
+5.000
+
+[station]
+2057711
+74
+Sunshine Villa
+322
+3.286
+1801.608
+24.803
+5.000
+
+[station]
+2057714
+88
+Booman Court
+324
+0.824
+2173.857
+9.043
+10.000
+
+[station]
+2057717
+99
+Mid-Levels Fire Station
+314
+3.223
+2595.757
+14.708
+10.000
+
+[station]
+2057777
+115
+South Valley Lake Park
+315
+3.177
+2907.081
+-0.359
+2.000
+
+[station]
+1892372
+133
+South Valley Sport Centres
+274
+0.716
+3358.312
+9.841
+0.000
+
+[station]
+1843170
+150
+South Valley Railway Station
+271
+6.635
+3816.775
+24.068
+10.000
+
+[station]
+5200571
+275
+Grundorf Tunnel Toll Plaza
+220
+1.198
+10420.961
+5.195
+12.500
+
+[station]
+46430
+348
+Einkaufszentrum
+17
+2.052
+14200.241
+8.165
+20.000
+
+[station]
+53446
+364
+Greensleeves Village
+13
+3.083
+14549.415
+92.694
+5.000
+
+[station]
+53239
+368
+Western College
+15
+3.130
+14836.490
+30.305
+8.000
+
+[station]
+691511
+376
+Fuk Wo Estate
+38
+1.283
+15229.882
+94.478
+30.000
+
+[station]
+378995
+388
+2 Lauma Terrace
+93
+3.115
+15595.332
+-5.971
+0.000
+
+[station]
+470019
+408
+Willow Garden
+94
+0.878
+16029.715
+7.140
+1.000
+
+[station]
+470023
+421
+Official Lodge
+193
+0.949
+16525.802
+7.330
+0.000
+
+[station]
+380195
+439
+Davis International School
+194
+0.931
+16870.257
+7.713
+8.000
+
+[station]
+360969
+463
+Western Coast
+196
+0.872
+17446.544
+9.009
+5.000
+
+[station]
+403276
+516
+University of Grundorf
+199
+-44.807
+18187.819
+-20.729
+50.000
+
+[station]
+397896
+554
+Western Beach Hotel
+198
+1.012
+18910.439
+6.322
+10.000
+
+[station]
+397895
+571
+Neo Greenhouse
+204
+0.991
+19402.238
+7.337
+0.000
+
+[station]
+397892
+589
+Scenery Villa
+208
+0.977
+19936.371
+8.086
+5.000
+
+[station]
+397899
+614
+2 Peninsula Beach
+213
+0.999
+20699.459
+7.192
+10.000
+
+[station]
+5644321
+639
+Peninsula Beach
+216
+5.137
+21213.515
+8.054
+100.000
+
+[station]
+5644317
+646
+Peninsula Beach
+216
+1.139
+21299.887
+19.788
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+80AP
+40.000
+

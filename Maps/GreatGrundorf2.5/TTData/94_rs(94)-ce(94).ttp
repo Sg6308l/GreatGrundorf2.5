@@ -1,0 +1,174 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+94_rs(94)-ce(94)
+94: Cemetery of Grundorf
+94
+
+.........................
+        Stations
+.........................
+
+[station]
+2354381
+1
+River Side
+333
+4.165
+22.939
+22.939
+0.000
+
+[station]
+2354377
+22
+Industrial Training Academy
+332
+1.200
+389.451
+19.813
+0.000
+
+[station]
+2361176
+33
+Greenpark Village
+330
+4.413
+772.313
+22.632
+0.000
+
+[station]
+2361175
+42
+South Valley Magistracy
+321
+4.444
+1091.265
+22.584
+0.000
+
+[station]
+1909114
+62
+Lakeview Mansion
+318
+4.417
+1626.898
+22.799
+0.000
+
+[station]
+1892372
+79
+South Valley Sport Centres
+274
+4.388
+2006.480
+24.224
+0.000
+
+[station]
+1843170
+94
+South Valley Railway Station
+271
+6.635
+2476.273
+24.068
+10.000
+
+[station]
+1440897
+219
+Grundorf Tunnel Toll Plaza
+220
+0.952
+9078.569
+3.304
+20.000
+
+[station]
+702231
+277
+Tak Wo Estate
+47
+4.527
+12528.445
+23.398
+0.000
+
+[station]
+702232
+290
+Ocean Villa
+176
+4.480
+13080.560
+24.190
+0.000
+
+[station]
+702233
+302
+Police Dormitory
+177
+4.526
+13599.609
+23.340
+0.000
+
+[station]
+331376
+328
+Lower Cemetery of Grundorf
+180
+4.560
+14265.403
+24.903
+50.000
+
+[station]
+380166
+340
+Cemetery of Grundorf
+180
+0.981
+14711.146
+20.446
+100.000
+
+[station]
+1561800
+346
+Cemetery of Grundorf
+180
+1.109
+14817.984
+24.685
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+24.000
+
+[profile_man_arr_time]
+6
+8.000
+[profile_man_arr_time]
+7
+16.000
+[profile_man_arr_time]
+8
+19.000

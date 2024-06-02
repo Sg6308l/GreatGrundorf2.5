@@ -1,0 +1,128 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+A2_gb(A2)-ap(A2)
+34: Airport (G.T.C.)
+34
+
+.........................
+        Stations
+.........................
+
+[station]
+574737
+4
+Grundorf Bay
+23
+1.391
+48.260
+5.620
+0.000
+
+[station]
+46358
+18
+Sliversea House
+23
+3.109
+359.283
+47.843
+0.000
+
+[station]
+702254
+26
+United Dormitory
+32
+1.177
+672.290
+3.049
+0.000
+
+[station]
+702255
+33
+Royal Court
+32
+1.266
+856.987
+46.355
+0.000
+
+[station]
+702252
+74
+Eastern Public Library
+31
+4.431
+1886.069
+23.046
+0.000
+
+[station]
+89659
+92
+Wah Fu Estate A2
+31
+0.622
+2235.281
+23.368
+0.000
+
+[station]
+1896451
+102
+Eastern Sport Ground
+30
+3.109
+2432.357
+4.644
+0.000
+
+[station]
+1896435
+107
+Vermilion Top
+30
+3.235
+2675.580
+97.941
+0.000
+
+[station]
+4666942
+198
+Passenger Terminal 1
+66
+5.501
+6738.554
+13.773
+70.000
+
+[station]
+4613920
+226
+Airport (Ground Transportation Centre)
+61
+0.947
+7284.981
+36.927
+20.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+14.000
+
+[profile_man_arr_time]
+7
+8.000

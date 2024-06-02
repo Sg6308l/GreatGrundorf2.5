@@ -1,0 +1,49 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+
+Western Depot
+SB23
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+5644620
+
+[station_typ2]
+2357837
+
+[station_typ2]
+1892365
+
+[station_typ2]
+5644620
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+17.000
+
+[profile_otherstopping]
+0
+3
+[profile_otherstopping]
+1
+1
+[profile_otherstopping]
+2
+1
+[profile_otherstopping]
+3
+1

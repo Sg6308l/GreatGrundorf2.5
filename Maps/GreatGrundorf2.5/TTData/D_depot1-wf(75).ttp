@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_depot1-wf(75)
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+[station]
+88902
+61
+Wah Fu Estate Parking
+31
+0.664
+1749.876
+22.762
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+5.000
+

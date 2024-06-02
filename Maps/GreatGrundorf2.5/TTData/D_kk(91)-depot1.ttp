@@ -1,0 +1,25 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_kk(91)-depot1
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+5.000
+

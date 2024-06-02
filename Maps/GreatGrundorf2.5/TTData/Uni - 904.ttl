@@ -1,0 +1,767 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+AP-01
+Depot 3
+1023
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+904 (Bhf - Uni)
+0
+360.000
+
+  Dep.: 6:35:0
+[addtrip]
+904 (Uni-Bhf)
+0
+395.000
+
+  Dep.: 7:10:0
+[addtrip]
+904 (Bhf - Uni)
+0
+430.000
+
+  Dep.: 7:45:0
+[addtrip]
+904 (Uni-Bhf)
+0
+465.000
+
+  Dep.: 8:20:0
+[addtrip]
+904 (Bhf - Uni)
+0
+500.000
+
+  Dep.: 8:55:0
+[addtrip]
+904 (Uni-Bhf)
+0
+535.000
+
+  Dep.: 9:30:0
+[addtrip]
+904 (Bhf - Uni)
+0
+570.000
+
+  Dep.: 10:5:0
+[addtrip]
+904 (Uni-Bhf)
+0
+605.000
+
+  Dep.: 10:40:0
+[addtrip]
+904 (Bhf - Uni)
+0
+640.000
+
+  Dep.: 11:15:0
+[addtrip]
+904 (Uni-Bhf)
+0
+675.000
+
+  Dep.: 11:50:0
+[addtrip]
+904 (Bhf - Uni)
+0
+710.000
+
+  Dep.: 12:25:0
+[addtrip]
+904 (Uni-Bhf)
+0
+745.000
+
+  Dep.: 13:0:0
+[addtrip]
+904 (Bhf - Uni)
+0
+780.000
+
+  Dep.: 13:35:0
+[addtrip]
+904 (Uni-Bhf)
+0
+815.000
+
+  Dep.: 14:10:0
+[addtrip]
+904 (Bhf - Uni)
+0
+850.000
+
+  Dep.: 14:45:0
+[addtrip]
+904 (Uni-Bhf)
+0
+885.000
+
+  Dep.: 15:20:0
+[addtrip]
+904 (Bhf - Uni)
+0
+920.000
+
+  Dep.: 15:55:0
+[addtrip]
+904 (Uni-Bhf)
+0
+955.000
+
+  Dep.: 16:30:0
+[addtrip]
+904 (Bhf - Uni)
+0
+990.000
+
+  Dep.: 17:5:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1025.000
+
+  Dep.: 17:40:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1060.000
+
+  Dep.: 18:15:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1095.000
+
+  Dep.: 18:50:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1130.000
+
+  Dep.: 19:25:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1165.000
+
+  Dep.: 20:0:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1200.000
+
+  Dep.: 20:35:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1235.000
+
+  Dep.: 21:10:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1270.000
+
+  Dep.: 21:45:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1305.000
+
+  Dep.: 22:20:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1340.000
+
+  Dep.: 22:55:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1375.000
+
+------------------------------------
+
+[newtour]
+AP-02
+Depot 3
+1023
+
+------------------------------------
+
+  Dep.: 6:15:0
+[addtrip]
+904 (Bhf - Uni)
+0
+375.000
+
+  Dep.: 6:50:0
+[addtrip]
+904 (Uni-Bhf)
+0
+410.000
+
+  Dep.: 7:25:0
+[addtrip]
+904 (Bhf - Uni)
+0
+445.000
+
+  Dep.: 8:0:0
+[addtrip]
+904 (Uni-Bhf)
+0
+480.000
+
+  Dep.: 8:35:0
+[addtrip]
+904 (Bhf - Uni)
+0
+515.000
+
+  Dep.: 9:10:0
+[addtrip]
+904 (Uni-Bhf)
+0
+550.000
+
+  Dep.: 9:45:0
+[addtrip]
+904 (Bhf - Uni)
+0
+585.000
+
+  Dep.: 10:20:0
+[addtrip]
+904 (Uni-Bhf)
+0
+620.000
+
+  Dep.: 10:55:0
+[addtrip]
+904 (Bhf - Uni)
+0
+655.000
+
+  Dep.: 11:30:0
+[addtrip]
+904 (Uni-Bhf)
+0
+690.000
+
+  Dep.: 12:5:0
+[addtrip]
+904 (Bhf - Uni)
+0
+725.000
+
+  Dep.: 12:40:0
+[addtrip]
+904 (Uni-Bhf)
+0
+760.000
+
+  Dep.: 13:15:0
+[addtrip]
+904 (Bhf - Uni)
+0
+795.000
+
+  Dep.: 13:50:0
+[addtrip]
+904 (Uni-Bhf)
+0
+830.000
+
+  Dep.: 14:25:0
+[addtrip]
+904 (Bhf - Uni)
+0
+865.000
+
+  Dep.: 15:0:0
+[addtrip]
+904 (Uni-Bhf)
+0
+900.000
+
+  Dep.: 15:35:0
+[addtrip]
+904 (Bhf - Uni)
+0
+935.000
+
+  Dep.: 16:10:0
+[addtrip]
+904 (Uni-Bhf)
+0
+970.000
+
+  Dep.: 16:45:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1005.000
+
+  Dep.: 17:20:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1040.000
+
+  Dep.: 17:55:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1075.000
+
+  Dep.: 18:30:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1110.000
+
+  Dep.: 19:5:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1145.000
+
+  Dep.: 19:40:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1180.000
+
+  Dep.: 20:15:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1215.000
+
+  Dep.: 20:50:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1250.000
+
+  Dep.: 21:25:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1285.000
+
+  Dep.: 22:0:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1320.000
+
+  Dep.: 22:35:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1355.000
+
+  Dep.: 23:10:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1390.000
+
+------------------------------------
+
+[newtour]
+AP-03
+Depot 3
+1023
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+904 (Uni-Bhf)
+0
+360.000
+
+  Dep.: 6:35:0
+[addtrip]
+904 (Bhf - Uni)
+0
+395.000
+
+  Dep.: 7:10:0
+[addtrip]
+904 (Uni-Bhf)
+0
+430.000
+
+  Dep.: 7:45:0
+[addtrip]
+904 (Bhf - Uni)
+0
+465.000
+
+  Dep.: 8:20:0
+[addtrip]
+904 (Uni-Bhf)
+0
+500.000
+
+  Dep.: 8:55:0
+[addtrip]
+904 (Bhf - Uni)
+0
+535.000
+
+  Dep.: 9:30:0
+[addtrip]
+904 (Uni-Bhf)
+0
+570.000
+
+  Dep.: 10:5:0
+[addtrip]
+904 (Bhf - Uni)
+0
+605.000
+
+  Dep.: 10:40:0
+[addtrip]
+904 (Uni-Bhf)
+0
+640.000
+
+  Dep.: 11:15:0
+[addtrip]
+904 (Bhf - Uni)
+0
+675.000
+
+  Dep.: 11:50:0
+[addtrip]
+904 (Uni-Bhf)
+0
+710.000
+
+  Dep.: 12:25:0
+[addtrip]
+904 (Bhf - Uni)
+0
+745.000
+
+  Dep.: 13:0:0
+[addtrip]
+904 (Uni-Bhf)
+0
+780.000
+
+  Dep.: 13:35:0
+[addtrip]
+904 (Bhf - Uni)
+0
+815.000
+
+  Dep.: 14:10:0
+[addtrip]
+904 (Uni-Bhf)
+0
+850.000
+
+  Dep.: 14:45:0
+[addtrip]
+904 (Bhf - Uni)
+0
+885.000
+
+  Dep.: 15:20:0
+[addtrip]
+904 (Uni-Bhf)
+0
+920.000
+
+  Dep.: 15:55:0
+[addtrip]
+904 (Bhf - Uni)
+0
+955.000
+
+  Dep.: 16:30:0
+[addtrip]
+904 (Uni-Bhf)
+0
+990.000
+
+  Dep.: 17:5:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1025.000
+
+  Dep.: 17:40:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1060.000
+
+  Dep.: 18:15:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1095.000
+
+  Dep.: 18:50:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1130.000
+
+  Dep.: 19:25:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1165.000
+
+  Dep.: 20:0:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1200.000
+
+  Dep.: 20:35:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1235.000
+
+  Dep.: 21:10:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1270.000
+
+  Dep.: 21:45:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1305.000
+
+  Dep.: 22:20:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1340.000
+
+  Dep.: 22:55:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1375.000
+
+------------------------------------
+
+[newtour]
+AP-04
+Depot 3
+1023
+
+------------------------------------
+
+  Dep.: 6:15:0
+[addtrip]
+904 (Uni-Bhf)
+0
+375.000
+
+  Dep.: 6:50:0
+[addtrip]
+904 (Bhf - Uni)
+0
+410.000
+
+  Dep.: 7:25:0
+[addtrip]
+904 (Uni-Bhf)
+0
+445.000
+
+  Dep.: 8:0:0
+[addtrip]
+904 (Bhf - Uni)
+0
+480.000
+
+  Dep.: 8:35:0
+[addtrip]
+904 (Uni-Bhf)
+0
+515.000
+
+  Dep.: 9:10:0
+[addtrip]
+904 (Bhf - Uni)
+0
+550.000
+
+  Dep.: 9:45:0
+[addtrip]
+904 (Uni-Bhf)
+0
+585.000
+
+  Dep.: 10:20:0
+[addtrip]
+904 (Bhf - Uni)
+0
+620.000
+
+  Dep.: 10:55:0
+[addtrip]
+904 (Uni-Bhf)
+0
+655.000
+
+  Dep.: 11:30:0
+[addtrip]
+904 (Bhf - Uni)
+0
+690.000
+
+  Dep.: 12:5:0
+[addtrip]
+904 (Uni-Bhf)
+0
+725.000
+
+  Dep.: 12:40:0
+[addtrip]
+904 (Bhf - Uni)
+0
+760.000
+
+  Dep.: 13:15:0
+[addtrip]
+904 (Uni-Bhf)
+0
+795.000
+
+  Dep.: 13:50:0
+[addtrip]
+904 (Bhf - Uni)
+0
+830.000
+
+  Dep.: 14:25:0
+[addtrip]
+904 (Uni-Bhf)
+0
+865.000
+
+  Dep.: 15:0:0
+[addtrip]
+904 (Bhf - Uni)
+0
+900.000
+
+  Dep.: 15:35:0
+[addtrip]
+904 (Uni-Bhf)
+0
+935.000
+
+  Dep.: 16:10:0
+[addtrip]
+904 (Bhf - Uni)
+0
+970.000
+
+  Dep.: 16:45:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1005.000
+
+  Dep.: 17:20:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1040.000
+
+  Dep.: 17:55:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1075.000
+
+  Dep.: 18:30:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1110.000
+
+  Dep.: 19:5:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1145.000
+
+  Dep.: 19:40:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1180.000
+
+  Dep.: 20:15:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1215.000
+
+  Dep.: 20:50:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1250.000
+
+  Dep.: 21:25:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1285.000
+
+  Dep.: 22:0:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1320.000
+
+  Dep.: 22:35:0
+[addtrip]
+904 (Uni-Bhf)
+0
+1355.000
+
+  Dep.: 23:10:0
+[addtrip]
+904 (Bhf - Uni)
+0
+1390.000
+

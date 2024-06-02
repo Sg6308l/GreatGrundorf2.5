@@ -1,0 +1,145 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+A1_ba(A1)-ap(A1)
+110: Airport (G.T.C.)
+110
+
+.........................
+        Stations
+.........................
+
+[station]
+440540
+9
+Bauernhof
+4
+2.294
+88.657
+16.717
+0.000
+
+[station]
+4211531
+29
+Nordspitze
+3
+3.253
+498.726
+34.184
+0.000
+
+[station]
+4302950
+35
+Elsterplatz
+5
+3.274
+679.327
+48.125
+0.000
+
+[station]
+4302960
+43
+Gau?orf
+5
+3.200
+899.621
+19.519
+0.000
+
+[station]
+4302902
+59
+Festival Court
+8
+3.251
+1206.939
+14.657
+0.000
+
+[station]
+4302896
+64
+Ocean View
+12
+4.563
+1396.238
+23.256
+0.000
+
+[station]
+4302919
+84
+Krankenhaus
+11
+2.904
+1726.099
+6.067
+0.000
+
+[station]
+4302923
+99
+Einsteindorf Marktplatz
+2
+3.196
+2039.159
+24.967
+0.000
+
+[station]
+4302935
+107
+Tianing Estate Carpark
+9
+1.214
+2304.916
+38.700
+0.000
+
+[station]
+702223
+123
+Western Industrial Training Centre
+0
+4.489
+2694.303
+21.188
+0.000
+
+[station]
+4666942
+200
+Passenger Terminal 1
+66
+5.501
+5665.745
+13.773
+70.000
+
+[station]
+4613921
+230
+Airport (Ground Transportation Centre)
+61
+1.036
+6201.509
+1.751
+20.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+16.000
+

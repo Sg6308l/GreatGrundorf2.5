@@ -1,0 +1,137 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+N68 - 01
+Depot 3
+1023
+
+------------------------------------
+
+  Dep.: 0:0:0
+[addtrip]
+D_depot3-svrs(N68)
+0
+0.000
+
+  Dep.: 0:10:0
+[addtrip]
+N68_svrs(N68)-svrs(N68)
+0
+10.000
+
+  Dep.: 0:58:0
+[addtrip]
+N68_svrs(N68)-svrs(N68)
+0
+58.000
+
+  Dep.: 1:46:0
+[addtrip]
+N68_svrs(N68)-svrs(N68)
+0
+106.000
+
+  Dep.: 2:34:0
+[addtrip]
+N68_svrs(N68)-svrs(N68)
+0
+154.000
+
+  Dep.: 3:22:0
+[addtrip]
+N68_svrs(N68)-svrs(N68)
+0
+202.000
+
+  Dep.: 4:10:0
+[addtrip]
+N68_svrs(N68)-svrs(N68)
+0
+250.000
+
+  Dep.: 4:58:0
+[addtrip]
+N68_svrs(N68)-svrs(N68)
+0
+298.000
+
+  Dep.: 5:41:0
+[addtrip]
+D_svrs(N68)-depot3
+0
+341.000
+
+------------------------------------
+
+[newtour]
+N68 - 02
+Depot 3
+1023
+
+------------------------------------
+
+  Dep.: 0:22:0
+[addtrip]
+D_depot3-svrs(N68)
+0
+22.000
+
+  Dep.: 0:32:0
+[addtrip]
+N68_svrs(N68)-svrs(N68)
+0
+32.000
+
+  Dep.: 1:20:0
+[addtrip]
+N68_svrs(N68)-svrs(N68)
+0
+80.000
+
+  Dep.: 2:8:0
+[addtrip]
+N68_svrs(N68)-svrs(N68)
+0
+128.000
+
+  Dep.: 2:56:0
+[addtrip]
+N68_svrs(N68)-svrs(N68)
+0
+176.000
+
+  Dep.: 3:44:0
+[addtrip]
+N68_svrs(N68)-svrs(N68)
+0
+224.000
+
+  Dep.: 4:32:0
+[addtrip]
+N68_svrs(N68)-svrs(N68)
+0
+272.000
+
+  Dep.: 5:20:0
+[addtrip]
+N68_svrs(N68)-svrs(N68)
+0
+320.000
+
+  Dep.: 6:3:0
+[addtrip]
+D_svrs(N68)-depot3
+0
+363.000
+

@@ -1,0 +1,247 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+79_kk(77-79)-pb(78-79)
+79: Peninsula Beach
+79
+
+.........................
+        Stations
+.........................
+
+[station]
+672414
+2
+Krankenhaus
+8
+1.244
+38.654
+12.654
+0.000
+
+[station]
+141484
+12
+Einsteindorf Marktplatz
+2
+3.111
+317.123
+30.903
+0.000
+
+[station]
+702222
+20
+Tianing Estate Carpark
+9
+1.193
+581.803
+43.559
+0.000
+
+[station]
+702223
+36
+Western Industrial Training Centre
+0
+4.489
+966.331
+21.188
+0.000
+
+[station]
+4882
+57
+Elsterplatz
+5
+3.142
+1455.027
+13.294
+20.000
+
+[station]
+4232685
+63
+Bhf. Nordspitze
+3
+3.097
+1637.677
+11.004
+0.000
+
+[station]
+69148
+71
+Mill Court
+6
+3.099
+1870.872
+85.455
+20.000
+
+[station]
+53180
+81
+W. Sports Ground
+6
+3.202
+2070.849
+34.792
+15.000
+
+[station]
+691511
+88
+Fuk Wo Estate
+38
+1.283
+2453.880
+94.478
+30.000
+
+[station]
+378995
+97
+2 Lauma Terrace
+93
+4.517
+2832.047
+23.245
+0.000
+
+[station]
+470019
+113
+Willow Garden
+94
+4.003
+3246.752
+25.640
+1.000
+
+[station]
+470023
+120
+Official Lodge
+193
+4.074
+3707.342
+25.830
+0.000
+
+[station]
+380195
+133
+Davis International School
+194
+4.603
+4094.141
+22.096
+8.000
+
+[station]
+360969
+153
+Western Coast
+196
+4.544
+4660.727
+23.392
+5.000
+
+[station]
+403276
+204
+University of Grundorf
+199
+-44.807
+5406.421
+-20.729
+50.000
+
+[station]
+397896
+239
+Western Beach Hotel
+198
+4.012
+6123.761
+24.322
+10.000
+
+[station]
+397895
+250
+Neo Greenhouse
+204
+3.991
+6596.776
+25.337
+0.000
+
+[station]
+397892
+262
+Scenery Villa
+208
+3.977
+7128.124
+26.086
+5.000
+
+[station]
+397899
+281
+2 Peninsula Beach
+213
+3.999
+7875.431
+25.192
+10.000
+
+[station]
+5644321
+304
+Peninsula Beach
+216
+5.137
+8422.824
+-2.125
+100.000
+
+[station]
+5644316
+311
+Peninsula Beach
+216
+0.536
+8528.922
+19.353
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+22.000
+
+[profile]
+fast
+20.000
+
+[profile]
+very fast
+18.000
+
+[profile]
+super fast
+17.000
+

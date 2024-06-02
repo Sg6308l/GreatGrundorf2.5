@@ -1,0 +1,49 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+
+Wah Fu
+
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+5644617
+
+[station_typ2]
+84488
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+8.000
+
+[profile_man_arr_time]
+0
+0.000
+[profile_man_dep_time]
+0
+0.000
+[profile_otherstopping]
+0
+3
+[profile_man_arr_time]
+1
+8.000
+[profile_man_dep_time]
+1
+8.000
+[profile_otherstopping]
+1
+1

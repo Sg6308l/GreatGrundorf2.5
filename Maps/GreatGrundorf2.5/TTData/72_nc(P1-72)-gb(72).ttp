@@ -1,0 +1,135 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+72_nc(P1-72)-gb(72)
+72: Grundorf Bay
+72
+
+.........................
+        Stations
+.........................
+
+[station]
+46351
+1
+Nottingham Court
+21
+2.282
+5.743
+5.743
+0.000
+
+[station]
+46349
+30
+North Industrial Centre
+21
+3.937
+341.172
+1.925
+15.000
+
+[station]
+46427
+45
+Submontane Village
+16
+4.428
+658.037
+22.704
+2.000
+
+[station]
+123505
+62
+Yellow House 1
+26
+3.032
+1089.996
+14.991
+10.000
+
+[station]
+123496
+72
+Pine Village
+28
+4.495
+1478.084
+23.070
+5.000
+
+[station]
+46390
+86
+Vermilion Top
+30
+3.014
+1963.813
+14.063
+10.000
+
+[station]
+46387
+91
+Eastern Sport Ground
+30
+3.178
+2274.991
+80.670
+25.000
+
+[station]
+46386
+101
+Eastern Public Library
+31
+4.511
+2513.961
+24.126
+20.000
+
+[station]
+46355
+134
+Seaside Garden
+22
+3.022
+3170.236
+-0.209
+15.000
+
+[station]
+702257
+137
+Sliversea House
+23
+2.951
+3294.758
+76.317
+15.000
+
+[station]
+629422
+158
+Grundorf Bay
+23
+1.092
+3784.294
+26.603
+10.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+12.000
+

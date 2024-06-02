@@ -1,0 +1,875 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+160 - 01
+Depot 1
+1023
+
+------------------------------------
+
+  Dep.: 5:50:0
+[addtrip]
+D_depot1-nc(P1-72)
+0
+350.000
+
+  Dep.: 5:54:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+354.000
+
+  Dep.: 6:27:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+387.000
+
+  Dep.: 7:0:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+420.000
+
+  Dep.: 7:33:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+453.000
+
+  Dep.: 8:6:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+486.000
+
+  Dep.: 8:39:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+519.000
+
+  Dep.: 9:12:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+552.000
+
+  Dep.: 9:45:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+585.000
+
+  Dep.: 10:18:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+618.000
+
+  Dep.: 10:51:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+651.000
+
+  Dep.: 11:24:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+684.000
+
+  Dep.: 11:57:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+717.000
+
+  Dep.: 12:30:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+750.000
+
+  Dep.: 13:3:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+783.000
+
+  Dep.: 13:36:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+816.000
+
+  Dep.: 14:9:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+849.000
+
+  Dep.: 14:42:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+882.000
+
+  Dep.: 15:15:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+915.000
+
+  Dep.: 15:48:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+948.000
+
+  Dep.: 16:21:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+981.000
+
+  Dep.: 16:54:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1014.000
+
+  Dep.: 17:27:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1047.000
+
+  Dep.: 18:0:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1080.000
+
+  Dep.: 18:33:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1113.000
+
+  Dep.: 19:6:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1146.000
+
+  Dep.: 19:39:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1179.000
+
+  Dep.: 20:12:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1212.000
+
+  Dep.: 20:45:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1245.000
+
+  Dep.: 21:18:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1278.000
+
+  Dep.: 21:51:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1311.000
+
+  Dep.: 22:24:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1344.000
+
+  Dep.: 22:57:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1377.000
+
+  Dep.: 23:30:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1410.000
+
+  Dep.: 24:3:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1443.000
+
+------------------------------------
+
+[newtour]
+160 - 02
+Depot 1
+1023
+
+------------------------------------
+
+  Dep.: 6:5:0
+[addtrip]
+D_depot1-nc(P1-72)
+0
+365.000
+
+  Dep.: 6:15:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+375.000
+
+  Dep.: 6:48:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+408.000
+
+  Dep.: 7:21:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+441.000
+
+  Dep.: 7:54:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+474.000
+
+  Dep.: 8:27:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+507.000
+
+  Dep.: 9:0:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+540.000
+
+  Dep.: 9:33:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+573.000
+
+  Dep.: 10:6:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+606.000
+
+  Dep.: 10:39:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+639.000
+
+  Dep.: 11:12:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+672.000
+
+  Dep.: 11:45:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+705.000
+
+  Dep.: 12:18:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+738.000
+
+  Dep.: 12:51:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+771.000
+
+  Dep.: 13:24:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+804.000
+
+  Dep.: 13:57:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+837.000
+
+  Dep.: 14:30:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+870.000
+
+  Dep.: 15:3:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+903.000
+
+  Dep.: 15:36:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+936.000
+
+  Dep.: 16:9:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+969.000
+
+  Dep.: 16:42:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1002.000
+
+  Dep.: 17:15:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1035.000
+
+  Dep.: 17:48:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1068.000
+
+  Dep.: 18:21:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1101.000
+
+  Dep.: 18:54:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1134.000
+
+  Dep.: 19:27:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1167.000
+
+  Dep.: 20:0:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1200.000
+
+  Dep.: 20:33:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1233.000
+
+  Dep.: 21:6:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1266.000
+
+  Dep.: 21:39:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1299.000
+
+  Dep.: 22:12:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1332.000
+
+  Dep.: 22:45:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1365.000
+
+  Dep.: 23:18:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1398.000
+
+  Dep.: 23:51:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1431.000
+
+  Dep.: 24:24:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1464.000
+
+------------------------------------
+
+[newtour]
+160 - 03
+Depot 1
+1023
+
+------------------------------------
+
+  Dep.: 5:54:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+354.000
+
+  Dep.: 6:27:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+387.000
+
+  Dep.: 7:0:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+420.000
+
+  Dep.: 7:33:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+453.000
+
+  Dep.: 8:6:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+486.000
+
+  Dep.: 8:39:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+519.000
+
+  Dep.: 9:12:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+552.000
+
+  Dep.: 9:45:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+585.000
+
+  Dep.: 10:18:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+618.000
+
+  Dep.: 10:51:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+651.000
+
+  Dep.: 11:24:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+684.000
+
+  Dep.: 11:57:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+717.000
+
+  Dep.: 12:30:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+750.000
+
+  Dep.: 13:3:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+783.000
+
+  Dep.: 13:36:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+816.000
+
+  Dep.: 14:9:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+849.000
+
+  Dep.: 14:42:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+882.000
+
+  Dep.: 15:15:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+915.000
+
+  Dep.: 15:48:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+948.000
+
+  Dep.: 16:21:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+981.000
+
+  Dep.: 16:54:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1014.000
+
+  Dep.: 17:27:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1047.000
+
+  Dep.: 18:0:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1080.000
+
+  Dep.: 18:33:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1113.000
+
+  Dep.: 19:6:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1146.000
+
+  Dep.: 19:39:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1179.000
+
+  Dep.: 20:12:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1212.000
+
+  Dep.: 20:45:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1245.000
+
+  Dep.: 21:18:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1278.000
+
+  Dep.: 21:51:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1311.000
+
+  Dep.: 22:24:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1344.000
+
+  Dep.: 22:57:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1377.000
+
+  Dep.: 23:30:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1410.000
+
+  Dep.: 24:3:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1443.000
+
+------------------------------------
+
+[newtour]
+160 - 04
+Depot 1
+1023
+
+------------------------------------
+
+  Dep.: 6:15:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+375.000
+
+  Dep.: 6:48:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+408.000
+
+  Dep.: 7:21:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+441.000
+
+  Dep.: 7:54:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+474.000
+
+  Dep.: 8:27:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+507.000
+
+  Dep.: 9:0:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+540.000
+
+  Dep.: 9:33:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+573.000
+
+  Dep.: 10:6:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+606.000
+
+  Dep.: 10:39:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+639.000
+
+  Dep.: 11:12:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+672.000
+
+  Dep.: 11:45:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+705.000
+
+  Dep.: 12:18:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+738.000
+
+  Dep.: 12:51:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+771.000
+
+  Dep.: 13:24:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+804.000
+
+  Dep.: 13:57:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+837.000
+
+  Dep.: 14:30:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+870.000
+
+  Dep.: 15:3:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+903.000
+
+  Dep.: 15:36:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+936.000
+
+  Dep.: 16:9:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+969.000
+
+  Dep.: 16:42:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1002.000
+
+  Dep.: 17:15:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1035.000
+
+  Dep.: 17:48:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1068.000
+
+  Dep.: 18:21:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1101.000
+
+  Dep.: 18:54:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1134.000
+
+  Dep.: 19:27:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1167.000
+
+  Dep.: 20:0:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1200.000
+
+  Dep.: 20:33:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1233.000
+
+  Dep.: 21:6:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1266.000
+
+  Dep.: 21:39:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1299.000
+
+  Dep.: 22:12:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1332.000
+
+  Dep.: 22:45:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1365.000
+
+  Dep.: 23:18:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1398.000
+
+  Dep.: 23:51:0
+[addtrip]
+P1_hs(P3)-nc(72-P1)
+0
+1431.000
+
+  Dep.: 24:24:0
+[addtrip]
+P1_nc(72-P1)-hs(P1)
+0
+1464.000
+

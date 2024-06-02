@@ -1,0 +1,184 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+93_mlp(93)-ce(93)
+93: Cemetery of Grundorf
+93
+
+.........................
+        Stations
+.........................
+
+[station]
+2057684
+8
+Mid-Levels Plaza
+322
+2.567
+126.151
+4.423
+0.000
+
+[station]
+2057685
+24
+Yan Lam Estate
+317
+4.343
+551.543
+23.271
+0.000
+
+[station]
+2057692
+38
+South Valley Hospital
+327
+3.249
+859.002
+0.728
+0.000
+
+[station]
+2057694
+42
+St. Stephen's School
+328
+3.133
+1151.277
+63.003
+0.000
+
+[station]
+2057698
+49
+The Great Hill Villa
+323
+3.180
+1430.091
+15.242
+0.000
+
+[station]
+2057712
+66
+Sunshine Villa
+322
+3.289
+1771.428
+23.857
+0.000
+
+[station]
+2057715
+78
+Booman Court
+324
+4.513
+2129.962
+22.382
+0.000
+
+[station]
+2057718
+87
+Mid-Levels Fire Station
+314
+3.203
+2564.274
+13.694
+0.000
+
+[station]
+1440897
+212
+Grundorf Tunnel Toll Plaza
+220
+0.952
+9677.806
+3.304
+20.000
+
+[station]
+702231
+270
+Tak Wo Estate
+47
+4.527
+13127.683
+23.398
+0.000
+
+[station]
+702232
+283
+Ocean Villa
+176
+4.480
+13679.796
+24.190
+0.000
+
+[station]
+702233
+295
+Police Dormitory
+177
+4.526
+14198.847
+23.340
+0.000
+
+[station]
+331376
+321
+Lower Cemetery of Grundorf
+180
+4.560
+14864.641
+24.903
+50.000
+
+[station]
+380166
+333
+Cemetery of Grundorf
+180
+0.981
+15310.383
+20.446
+100.000
+
+[station]
+1561799
+338
+Cemetery of Grundorf
+180
+1.139
+15403.598
+24.060
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+24.000
+
+[profile_man_arr_time]
+7
+8.000
+[profile_man_arr_time]
+8
+16.000
+[profile_man_arr_time]
+9
+19.000

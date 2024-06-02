@@ -1,0 +1,25 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_rs(67E-N67)-depot3
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+5.000
+

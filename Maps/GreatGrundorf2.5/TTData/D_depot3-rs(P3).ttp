@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_depot3-rs(P3)
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+[station]
+2354386
+55
+River Side
+333
+0.640
+1364.354
+24.440
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+5.000
+

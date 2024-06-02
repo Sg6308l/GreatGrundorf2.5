@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_depot3-ct(70E)
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+[station]
+1829863
+198
+Grundorf Container Terminals
+222
+0.588
+9955.040
+1.725
+30.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+15.000
+

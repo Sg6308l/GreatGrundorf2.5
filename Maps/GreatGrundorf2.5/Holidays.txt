@@ -1,0 +1,349 @@
+-----------------1980------------------------------
+
+[holiday]
+19800404
+Ching Ming Festival
+
+[holiday]
+19801017
+Chung Yueng Festival
+
+-----------------1981------------------------------
+
+[holiday]
+19810405
+Ching Ming Festival
+
+[holiday]
+19811006
+Chung Yueng Festival
+
+-----------------1982------------------------------
+
+[holiday]
+19820405
+Ching Ming Festival
+
+[holiday]
+19821025
+Chung Yueng Festival
+
+-----------------1983------------------------------
+
+[holiday]
+19830405
+Ching Ming Festival
+
+[holiday]
+19831014
+Chung Yueng Festival
+
+-----------------1984------------------------------
+
+[holiday]
+19840404
+Ching Ming Festival
+
+[holiday]
+19841003
+Chung Yueng Festival
+
+-----------------1985------------------------------
+
+[holiday]
+19850405
+Ching Ming Festival
+
+[holiday]
+19851022
+Chung Yueng Festival
+
+-----------------1986------------------------------
+
+[holiday]
+19860405
+Ching Ming Festival
+
+[holiday]
+19861012
+Chung Yueng Festival
+
+-----------------1987------------------------------
+
+[holiday]
+19870405
+Ching Ming Festival
+
+[holiday]
+19871031
+Chung Yueng Festival
+
+-----------------1988------------------------------
+
+[holiday]
+19880404
+Ching Ming Festival
+
+[holiday]
+19881019
+Chung Yueng Festival
+
+-----------------1989------------------------------
+
+[holiday]
+19890405
+Ching Ming Festival
+
+[holiday]
+19891008
+Chung Yueng Festival
+
+-----------------1990------------------------------
+
+[holiday]
+19900405
+Ching Ming Festival
+
+[holiday]
+19901026
+Chung Yueng Festival
+
+-----------------1991------------------------------
+
+[holiday]
+19910405
+Ching Ming Festival
+
+[holiday]
+19911016
+Chung Yueng Festival
+
+-----------------1992------------------------------
+
+[holiday]
+19920404
+Ching Ming Festival
+
+[holiday]
+19921004
+Chung Yueng Festival
+
+-----------------1993------------------------------
+
+[holiday]
+19930405
+Ching Ming Festival
+
+[holiday]
+19931023
+Chung Yueng Festival
+
+-----------------1994------------------------------
+
+[holiday]
+19940405
+Ching Ming Festival
+
+[holiday]
+19941013
+Chung Yueng Festival
+
+-----------------1995------------------------------
+
+[holiday]
+19950405
+Ching Ming Festival
+
+[holiday]
+19951101
+Chung Yueng Festival
+
+-----------------1996------------------------------
+
+[holiday]
+19960404
+Ching Ming Festival
+
+[holiday]
+19961020
+Chung Yueng Festival
+
+-----------------1997------------------------------
+
+[holiday]
+19970405
+Ching Ming Festival
+
+[holiday]
+19971010
+Chung Yueng Festival
+
+-----------------1998------------------------------
+
+[holiday]
+19980405
+Ching Ming Festival
+
+[holiday]
+19981028
+Chung Yueng Festival
+
+-----------------1999------------------------------
+
+[holiday]
+19990405
+Ching Ming Festival
+
+[holiday]
+19991017
+Chung Yueng Festival
+
+-----------------2000------------------------------
+
+[holiday]
+20000404
+Ching Ming Festival
+
+[holiday]
+20001006
+Chung Yueng Festival
+
+-----------------2001------------------------------
+
+[holiday]
+20010405
+Ching Ming Festival
+
+[holiday]
+20011025
+Chung Yueng Festival
+
+-----------------2002------------------------------
+
+[holiday]
+20020405
+Ching Ming Festival
+
+[holiday]
+20021014
+Chung Yueng Festival
+
+-----------------2003------------------------------
+
+[holiday]
+20030405
+Ching Ming Festival
+
+[holiday]
+20031004
+Chung Yueng Festival
+
+-----------------2004------------------------------
+
+[holiday]
+20040404
+Ching Ming Festival
+
+[holiday]
+20041022
+Chung Yueng Festival
+
+-----------------2005------------------------------
+
+[holiday]
+20050405
+Ching Ming Festival
+
+[holiday]
+20051011
+Chung Yueng Festival
+
+-----------------2006------------------------------
+
+[holiday]
+20060405
+Ching Ming Festival
+
+[holiday]
+20061030
+Chung Yueng Festival
+
+-----------------2007------------------------------
+
+[holiday]
+20070405
+Ching Ming Festival
+
+[holiday]
+20071019
+Chung Yueng Festival
+
+-----------------2008------------------------------
+
+[holiday]
+20080404
+Ching Ming Festival
+
+[holiday]
+20081007
+Chung Yueng Festival
+
+-----------------2009------------------------------
+
+[holiday]
+20090404
+Ching Ming Festival
+
+[holiday]
+20091026
+Chung Yueng Festival
+
+-----------------2010------------------------------
+
+[holiday]
+20100405
+Ching Ming Festival
+
+[holiday]
+20101016
+Chung Yueng Festival
+
+-----------------2011------------------------------
+
+[holiday]
+20110405
+Ching Ming Festival
+
+[holiday]
+20111005
+Chung Yueng Festival
+
+-----------------2012------------------------------
+
+[holiday]
+20120404
+Ching Ming Festival
+
+[holiday]
+20121023
+Chung Yueng Festival
+
+-----------------2013------------------------------
+
+[holiday]
+20130404
+Ching Ming Festival
+
+[holiday]
+20131013
+Chung Yueng Festival
+
+-----------------2014------------------------------
+
+[holiday]
+20140405
+Ching Ming Festival
+
+[holiday]
+20141002
+Chung Yueng Festival

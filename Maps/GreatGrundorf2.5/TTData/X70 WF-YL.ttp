@@ -1,0 +1,145 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+X70 WF-YL
+70e: Yat Lam Estate
+70e
+
+.........................
+        Stations
+.........................
+
+[station]
+750632
+0
+Wah Fu Estate Terminus
+31
+1.033
+26.761
+26.761
+0.000
+
+[station]
+808718
+0
+Wah Fu Estate 70 74
+31
+4.080
+53.804
+53.804
+0.000
+
+[station]
+46388
+16
+Eastern Sport Ground
+30
+3.070
+294.309
+17.831
+10.000
+
+[station]
+5200574
+93
+Grundorf Tunnel Toll Plaza
+220
+0.938
+4177.211
+-1.985
+0.000
+
+[station]
+1896353
+117
+Logistic Centre 1
+241
+0.823
+4727.798
+7.072
+10.000
+
+[station]
+1896355
+132
+Logistic Centre 2
+222
+0.912
+5240.112
+8.225
+15.000
+
+[station]
+1896356
+147
+Grundorf Container Terminals
+222
+1.872
+5500.054
+13.547
+3.000
+
+[station]
+1909128
+175
+Bowen Warehouse
+221
+1.430
+6118.852
+17.631
+10.000
+
+[station]
+1843180
+246
+South Valley Railway Station
+271
+-4.388
+11697.182
+708.551
+50.000
+
+[station]
+1892370
+322
+South Valley Sport Centres
+315
+0.600
+12765.844
+9.675
+10.000
+
+[station]
+1909115
+344
+Lakeview Mansion
+318
+0.730
+13206.576
+9.077
+20.000
+
+[station]
+1896316
+363
+Yat Lam Estate
+320
+1.284
+13563.917
+7.572
+10.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+X70AP
+30.000
+

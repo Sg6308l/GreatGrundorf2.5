@@ -1,0 +1,65 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+66_br(66)-svrs(N68)
+66: South Valley Railway Station Circular
+66
+
+.........................
+        Stations
+.........................
+
+[station]
+5521173
+5
+South Valley Railway Station
+271
+0.781
+41.792
+11.642
+150.000
+
+[station]
+5521015
+119
+Bus Rally
+342
+1.812
+4189.391
+5.810
+150.000
+
+[station]
+5537684
+225
+South Valley Railway Station
+271
+6.589
+7912.978
+16.330
+150.000
+
+[station]
+2354518
+229
+South Valley Railway Station
+271
+5.825
+8023.386
+8.638
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+18.000
+

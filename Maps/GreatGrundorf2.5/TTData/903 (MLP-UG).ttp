@@ -1,0 +1,265 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+903 (MLP - UG)
+903: Uni Of Grundorf
+903
+
+.........................
+        Stations
+.........................
+
+[station]
+2057675
+0
+Mid-Levels Plaza Terminus
+322
+1.277
+23.972
+23.972
+0.000
+
+[station]
+5644493
+11
+Mid-Levels Plaza
+322
+2.141
+133.500
+-7.228
+5.000
+
+[station]
+2057685
+30
+Yan Lam Estate
+317
+0.671
+603.160
+8.888
+0.000
+
+[station]
+2057689
+46
+South Valley Hospital
+327
+3.244
+889.268
+1.760
+2.000
+
+[station]
+2057693
+50
+St. Stephen's School
+328
+3.175
+1181.547
+64.039
+1.000
+
+[station]
+2057697
+57
+The Great Hill Villa
+323
+3.177
+1460.466
+16.384
+5.000
+
+[station]
+2057711
+74
+Sunshine Villa
+322
+3.286
+1801.608
+24.803
+5.000
+
+[station]
+2057714
+89
+Booman Court
+324
+2.996
+2163.949
+-5.865
+10.000
+
+[station]
+2057717
+99
+Mid-Levels Fire Station
+314
+3.223
+2595.757
+14.708
+10.000
+
+[station]
+5200572
+230
+Grundorf Tunnel Toll Plaza
+220
+13.917
+9697.294
+-47.676
+100.000
+
+[station]
+46428
+319
+Submontane Village
+16
+0.748
+13931.420
+9.114
+8.000
+
+[station]
+46347
+319
+Jade Village
+20
+137.396
+14467.137
+544.831
+10.000
+
+[station]
+53255
+319
+Tianing Estate
+9
+-207.337
+14642.220
+719.915
+15.000
+
+[station]
+16817
+319
+Western Industrial Training Centre
+0
+-494.854
+14443.279
+520.973
+15.000
+
+[station]
+4882
+399
+Elsterplatz
+5
+-9.070
+15831.858
+-80.971
+20.000
+
+[station]
+20630
+403
+Bhf. Nordspitze
+3
+3.092
+16050.612
+11.886
+0.000
+
+[station]
+69148
+403
+Mill Court
+6
+107.141
+16247.164
+208.438
+20.000
+
+[station]
+702227
+403
+W. Sports Ground
+6
+330.839
+16282.302
+243.575
+0.000
+
+[station]
+378995
+442
+2 Lauma Terrace
+93
+4.517
+17236.795
+-21.755
+0.000
+
+[station]
+470019
+460
+Willow Garden
+94
+0.878
+17665.762
+7.140
+1.000
+
+[station]
+470023
+473
+Official Lodge
+193
+0.949
+18161.850
+7.330
+0.000
+
+[station]
+380195
+491
+Davis International School
+194
+0.931
+18506.305
+7.713
+8.000
+
+[station]
+360969
+515
+Western Coast
+196
+0.872
+19082.590
+9.009
+5.000
+
+[station]
+5644399
+562
+Uni. Of Grundorf
+199
+0.736
+19794.723
+4.044
+100.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+45.000
+

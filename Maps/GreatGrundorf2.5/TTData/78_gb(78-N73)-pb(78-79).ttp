@@ -1,0 +1,277 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+78_gb(78-N73)-pb(78-79)
+78: Peninsula Beach
+78
+
+.........................
+        Stations
+.........................
+
+[station]
+611393
+5
+Grundorf Bay
+23
+1.184
+54.994
+4.304
+0.000
+
+[station]
+46358
+17
+Sliversea House
+23
+3.109
+348.333
+47.843
+0.000
+
+[station]
+702254
+25
+United Dormitory
+32
+1.177
+661.340
+3.049
+0.000
+
+[station]
+702255
+32
+Royal Court
+32
+1.266
+846.037
+46.355
+0.000
+
+[station]
+702252
+73
+Eastern Public Library
+31
+4.431
+1875.119
+23.046
+0.000
+
+[station]
+702250
+85
+Eastern Sport Ground
+30
+3.117
+2121.014
+16.837
+0.000
+
+[station]
+702247
+91
+Vermilion Top
+30
+3.213
+2282.447
+8.344
+0.000
+
+[station]
+331370
+117
+Tak Wo Estate
+47
+4.533
+3113.988
+24.572
+15.000
+
+[station]
+331373
+130
+Ocean Villa
+176
+4.471
+3665.963
+25.227
+0.000
+
+[station]
+331374
+142
+Police Dormitory
+177
+4.535
+4185.074
+24.438
+10.000
+
+[station]
+348297
+168
+Jumbo Garden
+182
+4.517
+4849.166
+24.220
+25.000
+
+[station]
+361730
+187
+Piper Tsuen
+92
+4.466
+5458.788
+22.692
+5.000
+
+[station]
+378993
+196
+Lauma Terrace
+93
+4.476
+5796.869
+23.472
+5.000
+
+[station]
+470019
+212
+Willow Garden
+94
+4.003
+6145.906
+25.640
+1.000
+
+[station]
+470023
+219
+Official Lodge
+193
+4.074
+6606.496
+25.830
+0.000
+
+[station]
+380195
+232
+Davis International School
+194
+4.603
+6993.295
+22.096
+8.000
+
+[station]
+360969
+252
+Western Coast
+196
+4.544
+7559.881
+23.392
+5.000
+
+[station]
+403276
+252
+University of Grundorf
+199
+-297.810
+7588.538
+52.049
+50.000
+
+[station]
+397896
+338
+Western Beach Hotel
+198
+4.012
+9022.916
+24.322
+10.000
+
+[station]
+397895
+349
+Neo Greenhouse
+204
+3.991
+9495.931
+25.337
+0.000
+
+[station]
+397892
+361
+Scenery Villa
+208
+3.977
+10027.280
+26.086
+5.000
+
+[station]
+397899
+380
+2 Peninsula Beach
+213
+3.999
+10774.586
+25.192
+10.000
+
+[station]
+5644321
+380
+Peninsula Beach
+216
+72.657
+11160.359
+410.966
+100.000
+
+[station]
+581676
+410
+Peninsula Beach
+216
+-1.135
+11432.212
+23.487
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+28.000
+
+[profile]
+fast
+24.000
+
+[profile]
+very fast
+22.000
+
+[profile]
+super fast
+20.000
+

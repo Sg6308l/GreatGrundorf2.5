@@ -1,0 +1,411 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+70_H_wf(70)-yl(70)
+70: Yat Lam Estate
+70
+
+.........................
+        Stations
+.........................
+
+[station]
+808718
+1
+Wah Fu Estate 70 74
+31
+4.080
+23.305
+23.305
+0.000
+
+[station]
+4211530
+17
+Eastern Public Library
+31
+4.534
+207.084
+22.051
+0.000
+
+[station]
+53425
+36
+Vista House
+32
+3.047
+465.429
+2.420
+2.000
+
+[station]
+53435
+42
+Wah Fu Carpark
+21
+2.846
+702.418
+8.049
+10.000
+
+[station]
+46349
+62
+North Industrial Centre
+21
+3.937
+946.067
+1.925
+15.000
+
+[station]
+46427
+77
+Submontane Village
+16
+4.428
+1262.931
+22.704
+2.000
+
+[station]
+53446
+98
+Greensleeves Village
+13
+3.083
+1796.753
+92.694
+5.000
+
+[station]
+53239
+102
+Western College
+15
+3.130
+2084.458
+30.305
+8.000
+
+[station]
+712971
+110
+Fuk Wo Estate
+38
+1.320
+2476.506
+93.136
+0.000
+
+[station]
+712969
+119
+2 Lauma Terrace
+93
+4.503
+2854.966
+22.196
+0.000
+
+[station]
+712968
+129
+Lauma Terrace
+93
+4.421
+3088.872
+22.542
+0.000
+
+[station]
+361731
+138
+Piper Tsuen
+92
+4.463
+3408.125
+23.695
+1.000
+
+[station]
+348298
+157
+Jumbo Garden
+182
+4.511
+4043.871
+24.091
+20.000
+
+[station]
+331376
+185
+Lower Cemetery of Grundorf
+180
+4.560
+4847.593
+24.903
+50.000
+
+[station]
+1561802
+204
+Cemetery of Grundorf
+180
+1.312
+5398.714
+17.224
+20.000
+
+[station]
+331377
+224
+Lower Cemetery of Grundorf
+180
+4.380
+5864.489
+24.168
+5.000
+
+[station]
+1909136
+243
+Newspring Park
+181
+2.273
+6455.461
+4.311
+15.000
+
+[station]
+4149593
+259
+Grundorf Prison
+187
+4.023
+6898.015
+25.825
+1.000
+
+[station]
+1909134
+285
+Rose Sunnyside
+189
+4.479
+7484.936
+24.017
+5.000
+
+[station]
+1909131
+301
+Corner Lodges
+191
+4.534
+7952.260
+22.271
+5.000
+
+[station]
+1909130
+325
+Siu Chung Sun Tsuen
+197
+4.103
+8503.885
+25.200
+5.000
+
+[station]
+1896353
+353
+Logistic Centre 1
+241
+4.495
+9374.820
+21.455
+10.000
+
+[station]
+1896355
+364
+Logistic Centre 2
+222
+4.584
+9881.934
+22.608
+15.000
+
+[station]
+1896356
+377
+Grundorf Container Terminals
+222
+1.872
+10150.292
+13.547
+3.000
+
+[station]
+1909128
+405
+Bowen Warehouse
+221
+1.430
+10769.093
+17.631
+10.000
+
+[station]
+1909126
+428
+Glassrock
+246
+4.396
+12119.855
+23.204
+10.000
+
+[station]
+1796368
+443
+Grundorf Country Park
+249
+3.704
+12774.534
+25.673
+15.000
+
+[station]
+1909124
+464
+Clover Bay Village
+254
+3.913
+13772.986
+24.525
+5.000
+
+[station]
+1909122
+501
+Southford Holiday Camp
+262
+3.982
+14903.506
+25.878
+15.000
+
+[station]
+1787505
+537
+St. Paul's Cathedral
+264
+1.615
+15825.602
+18.146
+15.000
+
+[station]
+1909120
+567
+Wellson Wayside
+265
+3.909
+16506.502
+26.554
+2.000
+
+[station]
+5309764
+580
+Central Government Office
+268
+4.550
+16966.342
+22.786
+10.000
+
+[station]
+1909118
+587
+Ching Lam Estate
+270
+4.439
+17179.225
+22.667
+15.000
+
+[station]
+1843180
+615
+South Valley Railway Station
+271
+0.658
+17738.672
+7.664
+50.000
+
+[station]
+1892371
+635
+South Valley Sport Centres
+315
+4.268
+18294.358
+23.010
+30.000
+
+[station]
+1909116
+653
+Lakeview Mansion
+318
+4.398
+18731.899
+22.455
+10.000
+
+[station]
+1896316
+670
+Yat Lam Estate
+320
+1.284
+19096.625
+7.572
+10.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+47.000
+
+[profile]
+fast
+41.000
+
+[profile]
+very fast
+36.000
+
+[profile]
+super fast
+34.000
+
+[profile]
+last departure
+25.000
+

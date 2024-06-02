@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D(A) 53 GTC
+
+
+
+.........................
+        Stations
+.........................
+
+[station]
+5644365
+55
+Airport (Ground Transportation Centre)
+61
+1.392
+1114.877
+31.806
+100.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+10.000
+

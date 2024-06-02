@@ -1,0 +1,307 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+N68_svrs(N68)-svrs(N68)
+N68: South Valley Railway Station Circular
+N68
+
+.........................
+        Stations
+.........................
+
+[station]
+1843181
+3
+South Valley Railway Station
+271
+0.654
+52.475
+14.805
+20.000
+
+[station]
+1892370
+22
+South Valley Sport Centres
+315
+4.272
+573.666
+24.058
+10.000
+
+[station]
+2357841
+38
+South Valley Lake Park
+314
+3.160
+936.096
+22.889
+0.000
+
+[station]
+2357850
+54
+Red Wall Garden
+322
+1.451
+1324.952
+14.110
+5.000
+
+[station]
+2357843
+80
+Mid-Levels Plaza
+322
+5.238
+1728.593
+3.842
+5.000
+
+[station]
+2357851
+94
+Red Wall Garden
+322
+1.423
+1956.520
+12.167
+5.000
+
+[station]
+53425
+303
+Vista House
+32
+3.047
+13816.081
+2.420
+2.000
+
+[station]
+53435
+309
+Wah Fu Carpark
+21
+2.846
+14053.069
+8.049
+10.000
+
+[station]
+46349
+328
+North Industrial Centre
+21
+2.047
+14283.637
+-1.157
+15.000
+
+[station]
+46347
+342
+Jade Village
+20
+1.327
+14614.796
+69.335
+10.000
+
+[station]
+53255
+351
+Tianing Estate
+9
+1.323
+15072.688
+22.274
+15.000
+
+[station]
+16817
+373
+Western Industrial Training Centre
+0
+4.500
+15538.161
+22.346
+15.000
+
+[station]
+4882
+394
+Elsterplatz
+5
+3.142
+16025.700
+13.294
+20.000
+
+[station]
+1796323
+403
+Bauernhof Railway Station
+5
+1.142
+16337.258
+17.053
+60.000
+
+[station]
+702225
+413
+Bhf. Nordspitze
+3
+3.090
+16581.927
+10.068
+20.000
+
+[station]
+69148
+421
+Mill Court
+6
+3.099
+16829.742
+85.455
+20.000
+
+[station]
+53180
+431
+W. Sports Ground
+6
+3.202
+17029.722
+34.792
+15.000
+
+[station]
+53241
+437
+Western College
+15
+3.161
+17297.149
+78.358
+10.000
+
+[station]
+53447
+441
+Greensleeves Village
+13
+3.084
+17564.001
+37.070
+8.000
+
+[station]
+46429
+461
+Einkaufszentrum
+17
+4.282
+18012.244
+13.658
+15.000
+
+[station]
+2357850
+652
+Red Wall Garden
+322
+1.451
+28934.865
+14.110
+5.000
+
+[station]
+2357842
+676
+Mid-Levels Plaza
+322
+5.149
+29312.812
+7.950
+5.000
+
+[station]
+2357851
+692
+Red Wall Garden
+322
+1.423
+29566.435
+12.167
+5.000
+
+[station]
+2057777
+708
+South Valley Lake Park
+315
+3.177
+29899.085
+-0.359
+2.000
+
+[station]
+1892372
+725
+South Valley Sport Centres
+274
+4.388
+30346.799
+24.224
+0.000
+
+[station]
+2357837
+741
+South Valley Railway Station
+271
+6.607
+30831.650
+17.374
+20.000
+
+[station]
+2354518
+745
+South Valley Railway Station
+271
+5.825
+30941.017
+8.638
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+42.000
+
+[profile_man_arr_time]
+5
+5.000
+[profile_man_arr_time]
+6
+16.000
+[profile_man_arr_time]
+19
+26.000
+[profile_man_arr_time]
+20
+37.000

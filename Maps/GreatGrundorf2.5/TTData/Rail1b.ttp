@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+Rail1b
+Airport
+1
+
+.........................
+        Stations
+.........................
+
+[station]
+5505014
+19
+Bauernhof Station
+86
+-0.204
+753.889
+7.409
+5.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+4.000
+

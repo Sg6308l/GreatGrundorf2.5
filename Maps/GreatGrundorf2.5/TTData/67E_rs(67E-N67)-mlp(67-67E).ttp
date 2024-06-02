@@ -1,0 +1,215 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+67E_rs(67E-N67)-mlp(67-67E)
+67E: Mid-Levels Plaza
+67M
+
+.........................
+        Stations
+.........................
+
+[station]
+2354379
+1
+River Side
+333
+0.457
+23.740
+23.740
+0.000
+
+[station]
+2354389
+13
+Yacht Club Villa
+337
+5.645
+285.584
+10.988
+0.000
+
+[station]
+4073719
+31
+Sunrise Garden
+336
+1.267
+691.599
+6.192
+0.000
+
+[station]
+2354371
+49
+Institute of Biotechnology
+335
+4.516
+1115.177
+23.013
+0.000
+
+[station]
+2354374
+55
+South Valley Bus Depot
+334
+4.526
+1318.820
+23.156
+0.000
+
+[station]
+2354376
+72
+River Side Market
+334
+4.462
+1800.291
+22.114
+1.000
+
+[station]
+2361176
+87
+Greenpark Village
+330
+4.413
+2294.156
+22.632
+0.000
+
+[station]
+2361175
+96
+South Valley Magistracy
+321
+4.444
+2613.108
+22.584
+0.000
+
+[station]
+1909113
+116
+Lakeview Mansion
+318
+4.420
+3149.762
+23.820
+0.000
+
+[station]
+2057775
+136
+South Valley Lake Park
+314
+3.150
+3643.296
+23.962
+2.000
+
+[station]
+2057719
+151
+Mid-Levels Fire Station
+314
+3.165
+4035.444
+23.754
+15.000
+
+[station]
+2057716
+160
+Booman Court
+325
+4.376
+4416.696
+23.273
+20.000
+
+[station]
+2057713
+172
+Sunshine Villa
+322
+3.133
+4767.500
+6.077
+10.000
+
+[station]
+2057699
+189
+The Great Hill Villa
+323
+3.162
+5165.664
+15.429
+10.000
+
+[station]
+2057695
+196
+St. Stephen's School
+328
+3.145
+5331.535
+34.999
+5.000
+
+[station]
+2057690
+200
+South Valley Hospital
+327
+3.216
+5635.652
+79.117
+10.000
+
+[station]
+2057687
+214
+Yan Lam Estate
+317
+4.384
+5997.286
+23.742
+20.000
+
+[station]
+2057680
+234
+Mid-Levels Plaza
+322
+4.787
+6532.983
+4.309
+20.000
+
+[station]
+2057676
+242
+Mid-Levels Plaza Terminus
+322
+1.142
+6637.282
+19.978
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+17.000
+

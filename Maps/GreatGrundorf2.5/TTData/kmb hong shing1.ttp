@@ -1,0 +1,55 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+kmb hong shing1
+Hong Shing Port
+B4
+
+.........................
+        Stations
+.........................
+
+[station]
+4056509
+2
+Hidden Bus Stop
+344
+-1.905
+40.466
+20.466
+0.000
+
+[station]
+4045062
+11
+Hong Shing Port parking
+311
+0.955
+309.569
+4.369
+150.000
+
+[station]
+4045063
+15
+Hong Shing Port enter
+311
+-0.500
+359.971
+-3.429
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+Standard
+5.000
+

@@ -1,0 +1,68 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+A4_hs(A4)-ap(A4)
+858: Airport (G.T.C.)
+858
+
+.........................
+        Stations
+.........................
+
+[station]
+4045069
+1
+Hong Shing Port
+311
+1.193
+14.356
+14.356
+0.000
+
+[station]
+1440898
+159
+Grundorf Tunnel Toll Plaza
+220
+0.842
+11101.250
+4.601
+20.000
+
+[station]
+4666942
+275
+Passenger Terminal 1
+66
+5.501
+17860.443
+13.773
+70.000
+
+[station]
+4613918
+301
+Airport (Ground Transportation Centre)
+61
+1.020
+18368.484
+31.539
+20.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+21.000
+
+[profile_man_arr_time]
+1
+11.000

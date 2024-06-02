@@ -1,0 +1,30 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+Busses
+832
+
+------------------------------------
+
+  Dep.: 7:0:0
+[addtrip]
+kmb hong shing3
+0
+420.000
+
+  Dep.: 20:0:0
+[addtrip]
+kmb hong shing4
+0
+1200.000
+

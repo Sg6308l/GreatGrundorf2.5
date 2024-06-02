@@ -1,0 +1,165 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+904 (Bhf - Uni)
+904: Uni Of Grundorf
+904
+
+.........................
+        Stations
+.........................
+
+[station]
+5644506
+0
+Bauernhof
+4
+-0.031
+23.078
+23.078
+0.000
+
+[station]
+507574
+9
+Bauernhof
+4
+2.122
+131.014
+4.194
+0.000
+
+[station]
+702242
+26
+Nordspitze
+3
+3.260
+485.940
+35.318
+10.000
+
+[station]
+1796323
+40
+Bauernhof Railway Station
+5
+-26.068
+762.645
+5.248
+60.000
+
+[station]
+20630
+46
+Bhf. Nordspitze
+3
+-14.101
+897.662
+-57.495
+0.000
+
+[station]
+69148
+53
+Mill Court
+6
+3.099
+1192.636
+85.455
+20.000
+
+[station]
+53180
+63
+W. Sports Ground
+6
+3.202
+1392.613
+34.792
+15.000
+
+[station]
+691511
+71
+Fuk Wo Estate
+38
+1.283
+1725.644
+-5.522
+30.000
+
+[station]
+378995
+81
+2 Lauma Terrace
+93
+0.845
+2150.928
+8.862
+0.000
+
+[station]
+470019
+103
+Willow Garden
+94
+3.420
+2572.059
+-6.257
+1.000
+
+[station]
+470023
+115
+Official Lodge
+193
+0.949
+3071.565
+7.330
+0.000
+
+[station]
+380195
+133
+Davis International School
+194
+0.931
+3416.019
+7.713
+8.000
+
+[station]
+360969
+158
+Western Coast
+196
+3.055
+3982.430
+-5.866
+5.000
+
+[station]
+5644418
+198
+Uni. Of Grundorf
+199
+0.720
+4632.671
+8.896
+100.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+15.000
+

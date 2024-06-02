@@ -1,0 +1,539 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+AP-01
+Depot 3
+1023
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+902 (S. V - Uni)
+0
+360.000
+
+  Dep.: 6:50:0
+[addtrip]
+902 (Uni - S. V
+0
+410.000
+
+  Dep.: 7:40:0
+[addtrip]
+902 (S. V - Uni)
+0
+460.000
+
+  Dep.: 8:30:0
+[addtrip]
+902 (Uni - S. V
+0
+510.000
+
+  Dep.: 9:20:0
+[addtrip]
+902 (S. V - Uni)
+0
+560.000
+
+  Dep.: 10:10:0
+[addtrip]
+902 (Uni - S. V
+0
+610.000
+
+  Dep.: 11:0:0
+[addtrip]
+902 (S. V - Uni)
+0
+660.000
+
+  Dep.: 11:50:0
+[addtrip]
+902 (Uni - S. V
+0
+710.000
+
+  Dep.: 12:40:0
+[addtrip]
+902 (S. V - Uni)
+0
+760.000
+
+  Dep.: 13:30:0
+[addtrip]
+902 (Uni - S. V
+0
+810.000
+
+  Dep.: 14:20:0
+[addtrip]
+902 (S. V - Uni)
+0
+860.000
+
+  Dep.: 15:10:0
+[addtrip]
+902 (Uni - S. V
+0
+910.000
+
+  Dep.: 16:0:0
+[addtrip]
+902 (S. V - Uni)
+0
+960.000
+
+  Dep.: 16:50:0
+[addtrip]
+902 (Uni - S. V
+0
+1010.000
+
+  Dep.: 17:40:0
+[addtrip]
+902 (S. V - Uni)
+0
+1060.000
+
+  Dep.: 18:30:0
+[addtrip]
+902 (Uni - S. V
+0
+1110.000
+
+  Dep.: 19:20:0
+[addtrip]
+902 (S. V - Uni)
+0
+1160.000
+
+  Dep.: 20:10:0
+[addtrip]
+902 (Uni - S. V
+0
+1210.000
+
+  Dep.: 21:0:0
+[addtrip]
+902 (S. V - Uni)
+0
+1260.000
+
+  Dep.: 21:50:0
+[addtrip]
+902 (Uni - S. V
+0
+1310.000
+
+------------------------------------
+
+[newtour]
+AP-02
+Depot 3
+319
+
+------------------------------------
+
+  Dep.: 6:15:0
+[addtrip]
+902 (S. V - Uni)
+0
+375.000
+
+  Dep.: 7:5:0
+[addtrip]
+902 (Uni - S. V
+0
+425.000
+
+  Dep.: 7:55:0
+[addtrip]
+902 (S. V - Uni)
+0
+475.000
+
+  Dep.: 8:45:0
+[addtrip]
+902 (Uni - S. V
+0
+525.000
+
+  Dep.: 9:35:0
+[addtrip]
+902 (S. V - Uni)
+0
+575.000
+
+  Dep.: 10:25:0
+[addtrip]
+902 (Uni - S. V
+0
+625.000
+
+  Dep.: 11:15:0
+[addtrip]
+902 (S. V - Uni)
+0
+675.000
+
+  Dep.: 12:5:0
+[addtrip]
+902 (Uni - S. V
+0
+725.000
+
+  Dep.: 12:55:0
+[addtrip]
+902 (S. V - Uni)
+0
+775.000
+
+  Dep.: 13:45:0
+[addtrip]
+902 (Uni - S. V
+0
+825.000
+
+  Dep.: 14:35:0
+[addtrip]
+902 (S. V - Uni)
+0
+875.000
+
+  Dep.: 15:25:0
+[addtrip]
+902 (Uni - S. V
+0
+925.000
+
+  Dep.: 16:15:0
+[addtrip]
+902 (S. V - Uni)
+0
+975.000
+
+  Dep.: 17:5:0
+[addtrip]
+902 (Uni - S. V
+0
+1025.000
+
+  Dep.: 17:55:0
+[addtrip]
+902 (S. V - Uni)
+0
+1075.000
+
+  Dep.: 18:45:0
+[addtrip]
+902 (Uni - S. V
+0
+1125.000
+
+  Dep.: 19:35:0
+[addtrip]
+902 (S. V - Uni)
+0
+1175.000
+
+  Dep.: 20:25:0
+[addtrip]
+902 (Uni - S. V
+0
+1225.000
+
+  Dep.: 21:15:0
+[addtrip]
+902 (S. V - Uni)
+0
+1275.000
+
+  Dep.: 22:5:0
+[addtrip]
+902 (Uni - S. V
+0
+1325.000
+
+------------------------------------
+
+[newtour]
+AP-03
+Depot 3
+1023
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+902 (Uni - S. V
+0
+360.000
+
+  Dep.: 6:50:0
+[addtrip]
+902 (S. V - Uni)
+0
+410.000
+
+  Dep.: 7:40:0
+[addtrip]
+902 (Uni - S. V
+0
+460.000
+
+  Dep.: 8:30:0
+[addtrip]
+902 (S. V - Uni)
+0
+510.000
+
+  Dep.: 9:20:0
+[addtrip]
+902 (Uni - S. V
+0
+560.000
+
+  Dep.: 10:10:0
+[addtrip]
+902 (S. V - Uni)
+0
+610.000
+
+  Dep.: 11:0:0
+[addtrip]
+902 (Uni - S. V
+0
+660.000
+
+  Dep.: 11:50:0
+[addtrip]
+902 (S. V - Uni)
+0
+710.000
+
+  Dep.: 12:40:0
+[addtrip]
+902 (Uni - S. V
+0
+760.000
+
+  Dep.: 13:30:0
+[addtrip]
+902 (S. V - Uni)
+0
+810.000
+
+  Dep.: 14:20:0
+[addtrip]
+902 (Uni - S. V
+0
+860.000
+
+  Dep.: 15:10:0
+[addtrip]
+902 (S. V - Uni)
+0
+910.000
+
+  Dep.: 16:0:0
+[addtrip]
+902 (Uni - S. V
+0
+960.000
+
+  Dep.: 16:50:0
+[addtrip]
+902 (S. V - Uni)
+0
+1010.000
+
+  Dep.: 17:40:0
+[addtrip]
+902 (Uni - S. V
+0
+1060.000
+
+  Dep.: 18:30:0
+[addtrip]
+902 (S. V - Uni)
+0
+1110.000
+
+  Dep.: 19:20:0
+[addtrip]
+902 (Uni - S. V
+0
+1160.000
+
+  Dep.: 20:10:0
+[addtrip]
+902 (S. V - Uni)
+0
+1210.000
+
+  Dep.: 21:0:0
+[addtrip]
+902 (Uni - S. V
+0
+1260.000
+
+  Dep.: 21:50:0
+[addtrip]
+902 (S. V - Uni)
+0
+1310.000
+
+  Dep.: 22:40:0
+[addtrip]
+902 (Uni - S. V
+0
+1360.000
+
+------------------------------------
+
+[newtour]
+AP-04
+Depot 3
+1023
+
+------------------------------------
+
+  Dep.: 6:15:0
+[addtrip]
+902 (Uni - S. V
+0
+375.000
+
+  Dep.: 7:5:0
+[addtrip]
+902 (S. V - Uni)
+0
+425.000
+
+  Dep.: 7:55:0
+[addtrip]
+902 (Uni - S. V
+0
+475.000
+
+  Dep.: 8:45:0
+[addtrip]
+902 (S. V - Uni)
+0
+525.000
+
+  Dep.: 9:35:0
+[addtrip]
+902 (Uni - S. V
+0
+575.000
+
+  Dep.: 10:25:0
+[addtrip]
+902 (S. V - Uni)
+0
+625.000
+
+  Dep.: 11:15:0
+[addtrip]
+902 (Uni - S. V
+0
+675.000
+
+  Dep.: 12:5:0
+[addtrip]
+902 (S. V - Uni)
+0
+725.000
+
+  Dep.: 12:55:0
+[addtrip]
+902 (Uni - S. V
+0
+775.000
+
+  Dep.: 13:45:0
+[addtrip]
+902 (S. V - Uni)
+0
+825.000
+
+  Dep.: 14:35:0
+[addtrip]
+902 (Uni - S. V
+0
+875.000
+
+  Dep.: 15:25:0
+[addtrip]
+902 (S. V - Uni)
+0
+925.000
+
+  Dep.: 16:15:0
+[addtrip]
+902 (Uni - S. V
+0
+975.000
+
+  Dep.: 17:5:0
+[addtrip]
+902 (S. V - Uni)
+0
+1025.000
+
+  Dep.: 17:55:0
+[addtrip]
+902 (Uni - S. V
+0
+1075.000
+
+  Dep.: 18:45:0
+[addtrip]
+902 (S. V - Uni)
+0
+1125.000
+
+  Dep.: 19:35:0
+[addtrip]
+902 (Uni - S. V
+0
+1175.000
+
+  Dep.: 20:25:0
+[addtrip]
+902 (S. V - Uni)
+0
+1225.000
+
+  Dep.: 21:15:0
+[addtrip]
+902 (Uni - S. V
+0
+1275.000
+
+  Dep.: 22:5:0
+[addtrip]
+902 (S. V - Uni)
+0
+1325.000
+
+  Dep.: 22:55:0
+[addtrip]
+902 (Uni - S. V
+0
+1375.000
+

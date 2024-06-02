@@ -1,0 +1,167 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+67_cle(67-N67)-mlp(67-67E)
+67: Mid-Levels Plaza
+67
+
+.........................
+        Stations
+.........................
+
+[station]
+1892366
+1
+Ching Lam Estate
+270
+1.533
+0.000
+-2.322
+0.000
+
+[station]
+1843181
+36
+South Valley Railway Station
+271
+0.654
+743.515
+14.805
+20.000
+
+[station]
+1892370
+55
+South Valley Sport Centres
+315
+4.272
+1264.706
+24.058
+10.000
+
+[station]
+2057775
+71
+South Valley Lake Park
+314
+3.150
+1628.209
+23.962
+2.000
+
+[station]
+2057719
+86
+Mid-Levels Fire Station
+314
+3.165
+2020.357
+23.754
+15.000
+
+[station]
+2057716
+95
+Booman Court
+325
+4.376
+2401.608
+23.273
+20.000
+
+[station]
+2057713
+107
+Sunshine Villa
+322
+3.133
+2752.412
+6.077
+10.000
+
+[station]
+2057699
+124
+The Great Hill Villa
+323
+3.162
+3150.577
+15.429
+10.000
+
+[station]
+2057695
+131
+St. Stephen's School
+328
+3.145
+3316.447
+34.999
+5.000
+
+[station]
+2057690
+135
+South Valley Hospital
+327
+3.216
+3620.565
+79.117
+10.000
+
+[station]
+2057687
+149
+Yan Lam Estate
+317
+4.384
+3982.200
+23.742
+20.000
+
+[station]
+2057680
+169
+Mid-Levels Plaza
+322
+4.787
+4517.896
+4.309
+20.000
+
+[station]
+2057676
+177
+Mid-Levels Plaza Terminus
+322
+1.142
+4622.195
+19.978
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+13.000
+
+[profile]
+fast
+11.000
+
+[profile]
+very fast
+10.000
+
+[profile]
+super fast
+9.000
+

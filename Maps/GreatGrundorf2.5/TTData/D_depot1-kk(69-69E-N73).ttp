@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_depot1-kk(69-69E-N73)
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+[station]
+682573
+87
+Krankenhaus
+8
+1.186
+2142.973
+46.925
+20.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+5.000
+

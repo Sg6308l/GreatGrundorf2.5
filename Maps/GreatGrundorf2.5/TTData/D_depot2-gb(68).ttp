@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_depot2-gb(68)
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+[station]
+629420
+110
+Grundorf Bay
+23
+0.960
+3471.964
+22.201
+10.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+6.000
+

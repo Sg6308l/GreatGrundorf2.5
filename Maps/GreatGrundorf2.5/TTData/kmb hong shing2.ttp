@@ -1,0 +1,25 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+kmb hong shing2
+Hidden Bus Stop
+B4
+
+.........................
+        Stations
+.........................
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+5.000
+

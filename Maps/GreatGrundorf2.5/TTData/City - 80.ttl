@@ -1,0 +1,431 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1A/5P
+Depot 2
+1023
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+80 PB - MLP
+0
+360.000
+
+  Dep.: 7:10:0
+[addtrip]
+80 MLP-PB
+0
+430.000
+
+  Dep.: 8:20:0
+[addtrip]
+80 PB - MLP
+0
+500.000
+
+  Dep.: 9:30:0
+[addtrip]
+80 MLP-PB
+0
+570.000
+
+  Dep.: 10:40:0
+[addtrip]
+80 PB - MLP
+0
+640.000
+
+  Dep.: 11:50:0
+[addtrip]
+80 MLP-PB
+0
+710.000
+
+  Dep.: 13:0:0
+[addtrip]
+80 PB - MLP
+0
+780.000
+
+  Dep.: 14:10:0
+[addtrip]
+80 MLP-PB
+0
+850.000
+
+  Dep.: 15:20:0
+[addtrip]
+80 PB - MLP
+0
+920.000
+
+  Dep.: 16:30:0
+[addtrip]
+80 MLP-PB
+0
+990.000
+
+  Dep.: 17:40:0
+[addtrip]
+80 PB - MLP
+0
+1060.000
+
+  Dep.: 18:50:0
+[addtrip]
+80 MLP-PB
+0
+1130.000
+
+  Dep.: 20:0:0
+[addtrip]
+80 PB - MLP
+0
+1200.000
+
+  Dep.: 21:10:0
+[addtrip]
+80 MLP-PB
+0
+1270.000
+
+  Dep.: 22:20:0
+[addtrip]
+80 PB - MLP
+0
+1340.000
+
+  Dep.: 23:30:0
+[addtrip]
+80 MLP-PB
+0
+1410.000
+
+------------------------------------
+
+[newtour]
+2A/6P
+Depot 2
+1023
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+80 MLP-PB
+0
+360.000
+
+  Dep.: 7:10:0
+[addtrip]
+80 PB - MLP
+0
+430.000
+
+  Dep.: 8:20:0
+[addtrip]
+80 MLP-PB
+0
+500.000
+
+  Dep.: 9:30:0
+[addtrip]
+80 PB - MLP
+0
+570.000
+
+  Dep.: 10:40:0
+[addtrip]
+80 MLP-PB
+0
+640.000
+
+  Dep.: 11:50:0
+[addtrip]
+80 PB - MLP
+0
+710.000
+
+  Dep.: 13:0:0
+[addtrip]
+80 MLP-PB
+0
+780.000
+
+  Dep.: 14:10:0
+[addtrip]
+80 PB - MLP
+0
+850.000
+
+  Dep.: 15:20:0
+[addtrip]
+80 MLP-PB
+0
+920.000
+
+  Dep.: 16:30:0
+[addtrip]
+80 PB - MLP
+0
+990.000
+
+  Dep.: 17:40:0
+[addtrip]
+80 MLP-PB
+0
+1060.000
+
+  Dep.: 18:50:0
+[addtrip]
+80 PB - MLP
+0
+1130.000
+
+  Dep.: 20:0:0
+[addtrip]
+80 MLP-PB
+0
+1200.000
+
+  Dep.: 21:10:0
+[addtrip]
+80 PB - MLP
+0
+1270.000
+
+  Dep.: 22:20:0
+[addtrip]
+80 MLP-PB
+0
+1340.000
+
+  Dep.: 23:30:0
+[addtrip]
+80 PB - MLP
+0
+1410.000
+
+------------------------------------
+
+[newtour]
+3A/7P
+Depot 2
+1023
+
+------------------------------------
+
+  Dep.: 6:20:0
+[addtrip]
+80 PB - MLP
+0
+380.000
+
+  Dep.: 7:30:0
+[addtrip]
+80 MLP-PB
+0
+450.000
+
+  Dep.: 8:40:0
+[addtrip]
+80 PB - MLP
+0
+520.000
+
+  Dep.: 9:50:0
+[addtrip]
+80 MLP-PB
+0
+590.000
+
+  Dep.: 11:0:0
+[addtrip]
+80 PB - MLP
+0
+660.000
+
+  Dep.: 12:10:0
+[addtrip]
+80 MLP-PB
+0
+730.000
+
+  Dep.: 13:20:0
+[addtrip]
+80 PB - MLP
+0
+800.000
+
+  Dep.: 14:30:0
+[addtrip]
+80 MLP-PB
+0
+870.000
+
+  Dep.: 15:40:0
+[addtrip]
+80 PB - MLP
+0
+940.000
+
+  Dep.: 16:50:0
+[addtrip]
+80 MLP-PB
+0
+1010.000
+
+  Dep.: 18:0:0
+[addtrip]
+80 PB - MLP
+0
+1080.000
+
+  Dep.: 19:10:0
+[addtrip]
+80 MLP-PB
+0
+1150.000
+
+  Dep.: 20:20:0
+[addtrip]
+80 PB - MLP
+0
+1220.000
+
+  Dep.: 21:30:0
+[addtrip]
+80 MLP-PB
+0
+1290.000
+
+  Dep.: 22:40:0
+[addtrip]
+80 PB - MLP
+0
+1360.000
+
+  Dep.: 23:50:0
+[addtrip]
+80 MLP-PB
+0
+1430.000
+
+------------------------------------
+
+[newtour]
+4A/8P
+Depot 2
+1023
+
+------------------------------------
+
+  Dep.: 6:20:0
+[addtrip]
+80 MLP-PB
+0
+380.000
+
+  Dep.: 7:30:0
+[addtrip]
+80 PB - MLP
+0
+450.000
+
+  Dep.: 8:40:0
+[addtrip]
+80 MLP-PB
+0
+520.000
+
+  Dep.: 9:50:0
+[addtrip]
+80 PB - MLP
+0
+590.000
+
+  Dep.: 11:0:0
+[addtrip]
+80 MLP-PB
+0
+660.000
+
+  Dep.: 12:10:0
+[addtrip]
+80 PB - MLP
+0
+730.000
+
+  Dep.: 13:20:0
+[addtrip]
+80 MLP-PB
+0
+800.000
+
+  Dep.: 14:30:0
+[addtrip]
+80 PB - MLP
+0
+870.000
+
+  Dep.: 15:40:0
+[addtrip]
+80 MLP-PB
+0
+940.000
+
+  Dep.: 16:50:0
+[addtrip]
+80 PB - MLP
+0
+1010.000
+
+  Dep.: 18:0:0
+[addtrip]
+80 MLP-PB
+0
+1080.000
+
+  Dep.: 19:10:0
+[addtrip]
+80 PB - MLP
+0
+1150.000
+
+  Dep.: 20:20:0
+[addtrip]
+80 MLP-PB
+0
+1220.000
+
+  Dep.: 21:30:0
+[addtrip]
+80 PB - MLP
+0
+1290.000
+
+  Dep.: 22:40:0
+[addtrip]
+80 MLP-PB
+0
+1360.000
+
+  Dep.: 23:50:0
+[addtrip]
+80 PB - MLP
+0
+1430.000
+

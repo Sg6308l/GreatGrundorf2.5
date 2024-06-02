@@ -1,0 +1,65 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+70E_ct(70E)-gt(70E)
+70M: Grundorf Tunnel Toll Plaza
+70M
+
+.........................
+        Stations
+.........................
+
+[station]
+1440912
+1
+Grundorf Container Terminals
+222
+2.945
+9.815
+9.815
+0.000
+
+[station]
+1440901
+15
+Logistic Centre 2
+222
+4.481
+251.700
+22.485
+0.000
+
+[station]
+1440907
+28
+Logistic Centre 1
+241
+4.477
+866.189
+22.684
+0.000
+
+[station]
+5200572
+57
+Grundorf Tunnel Toll Plaza
+220
+1.074
+1538.103
+4.278
+100.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+5.000
+

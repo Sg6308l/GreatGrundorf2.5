@@ -1,0 +1,334 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+E3_ex(E2)-rs(E3)
+47: River Side
+47
+
+.........................
+        Stations
+.........................
+
+[station]
+4697246
+2
+Grundorf Expo
+63
+1.080
+27.284
+-0.316
+0.000
+
+[station]
+4697262
+19
+Knocknagoney Park
+79
+1.597
+214.069
+-0.351
+0.000
+
+[station]
+4614017
+26
+Grundorf Skycity Hotel
+64
+3.067
+340.083
+54.243
+0.000
+
+[station]
+4712416
+42
+SkyPier Grundorf
+64
+4.564
+670.819
+22.221
+0.000
+
+[station]
+4598284
+52
+Grundorf Expo East Gate
+63
+4.546
+1092.175
+23.315
+0.000
+
+[station]
+4598301
+57
+Airport Authority Office
+53
+4.498
+1358.504
+22.526
+1.000
+
+[station]
+4598320
+74
+Air Grundorf Headquarters
+61
+1.118
+1788.044
+19.918
+0.000
+
+[station]
+4598341
+91
+Aviation Fuel Tank Farm
+61
+4.532
+2090.211
+23.447
+1.000
+
+[station]
+4613924
+112
+Airport (Ground Transportation Centre)
+61
+5.467
+2715.778
+-0.136
+0.000
+
+[station]
+4666944
+159
+Passenger Terminal 1
+66
+5.618
+3617.239
+16.699
+0.000
+
+[station]
+1440895
+275
+Grundorf Tunnel Toll Plaza
+220
+0.802
+10532.201
+7.334
+20.000
+
+[station]
+1843179
+401
+South Valley Railway Station
+271
+0.684
+17120.463
+12.774
+50.000
+
+[station]
+1892371
+421
+South Valley Sport Centres
+315
+4.268
+17643.678
+23.010
+30.000
+
+[station]
+2057776
+437
+South Valley Lake Park
+314
+3.118
+18003.405
+19.137
+2.000
+
+[station]
+4614132
+452
+Mid-Levels Fire Station
+314
+3.049
+18394.996
+18.370
+25.000
+
+[station]
+2057716
+461
+Booman Court
+325
+4.376
+18781.631
+23.273
+20.000
+
+[station]
+4614173
+473
+Sunshine Villa
+322
+3.070
+19129.011
+2.655
+15.000
+
+[station]
+4614164
+490
+The Great Hill Villa
+323
+3.048
+19525.983
+10.811
+15.000
+
+[station]
+4614156
+497
+St. Stephen's School
+328
+3.043
+19691.906
+30.433
+5.000
+
+[station]
+4614148
+501
+South Valley Hospital
+327
+3.200
+19995.098
+73.625
+10.000
+
+[station]
+2357855
+515
+Yan Lam Estate
+317
+4.358
+20361.203
+22.720
+5.000
+
+[station]
+2057681
+539
+Mid-Levels Plaza
+322
+6.344
+20919.178
+6.846
+20.000
+
+[station]
+4614140
+558
+Red Wall Garden
+322
+1.405
+21222.504
+-1.338
+5.000
+
+[station]
+4614130
+572
+South Valley Lake Park
+314
+3.121
+21597.246
+53.863
+2.000
+
+[station]
+1909115
+593
+Lakeview Mansion
+318
+4.402
+22154.797
+23.460
+20.000
+
+[station]
+2361174
+606
+South Valley Magistracy
+321
+4.433
+22506.122
+21.835
+10.000
+
+[station]
+2361177
+617
+Greenpark Village
+330
+4.355
+22913.774
+22.489
+5.000
+
+[station]
+2354378
+627
+Industrial Training Academy
+332
+1.324
+23308.233
+39.715
+35.000
+
+[station]
+2354388
+645
+River Side
+333
+1.306
+23718.697
+-0.619
+20.000
+
+[station]
+2354385
+650
+River Side
+333
+0.895
+23844.272
+27.105
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+42.000
+
+[profile_man_arr_time]
+9
+8.000
+[profile_man_arr_time]
+10
+17.000
+[profile_man_arr_time]
+11
+25.000

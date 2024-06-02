@@ -1,0 +1,255 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+N67_rs(67E-N67)-cle(67-N67)
+N67: Ching Lam Estate
+N67
+
+.........................
+        Stations
+.........................
+
+[station]
+2354379
+1
+River Side
+333
+0.457
+23.740
+23.740
+0.000
+
+[station]
+2354389
+13
+Yacht Club Villa
+337
+5.645
+285.584
+10.988
+0.000
+
+[station]
+4073719
+31
+Sunrise Garden
+336
+1.267
+691.599
+6.192
+0.000
+
+[station]
+2354371
+49
+Institute of Biotechnology
+335
+4.516
+1115.177
+23.013
+0.000
+
+[station]
+2354374
+55
+South Valley Bus Depot
+334
+4.526
+1318.820
+23.156
+0.000
+
+[station]
+2354376
+72
+River Side Market
+334
+4.462
+1800.291
+22.114
+1.000
+
+[station]
+2361176
+87
+Greenpark Village
+330
+4.413
+2294.156
+22.632
+0.000
+
+[station]
+2361175
+96
+South Valley Magistracy
+321
+4.444
+2613.108
+22.584
+0.000
+
+[station]
+1909113
+116
+Lakeview Mansion
+318
+4.420
+3149.762
+23.820
+0.000
+
+[station]
+2057775
+136
+South Valley Lake Park
+314
+3.150
+3643.296
+23.962
+2.000
+
+[station]
+2357850
+152
+Red Wall Garden
+322
+1.451
+4031.079
+14.110
+5.000
+
+[station]
+2357842
+176
+Mid-Levels Plaza
+322
+5.149
+4409.022
+7.950
+5.000
+
+[station]
+2057685
+193
+Yan Lam Estate
+317
+4.343
+4860.514
+23.271
+0.000
+
+[station]
+2057689
+207
+South Valley Hospital
+327
+3.244
+5169.005
+1.760
+2.000
+
+[station]
+2057693
+211
+St. Stephen's School
+328
+3.175
+5461.284
+64.039
+1.000
+
+[station]
+2057697
+218
+The Great Hill Villa
+323
+3.177
+5740.203
+16.384
+5.000
+
+[station]
+2057711
+235
+Sunshine Villa
+322
+3.286
+6081.345
+24.803
+5.000
+
+[station]
+2057714
+247
+Booman Court
+324
+4.496
+6439.976
+23.426
+10.000
+
+[station]
+2057717
+256
+Mid-Levels Fire Station
+314
+3.223
+6874.259
+14.708
+10.000
+
+[station]
+2057777
+271
+South Valley Lake Park
+315
+3.177
+7241.948
+59.641
+2.000
+
+[station]
+1892373
+289
+South Valley Sport Centres
+274
+4.395
+7632.204
+23.132
+30.000
+
+[station]
+1843169
+305
+South Valley Railway Station
+271
+6.589
+8119.071
+18.299
+60.000
+
+[station]
+1892365
+336
+Ching Lam Estate
+270
+1.215
+8760.696
+14.293
+30.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+20.000
+

@@ -1,0 +1,325 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+78E_wf(75)-wf(78E)
+78M: Wah Fu Estate Cir
+78M
+
+.........................
+        Stations
+.........................
+
+[station]
+53398
+1
+Wah Fu Estate 75 78E
+31
+0.660
+21.380
+21.380
+0.000
+
+[station]
+4211530
+14
+Eastern Public Library
+31
+4.534
+160.568
+22.051
+0.000
+
+[station]
+53425
+33
+Vista House
+32
+3.047
+418.913
+2.420
+2.000
+
+[station]
+53435
+39
+Wah Fu Carpark
+21
+2.846
+655.901
+8.049
+10.000
+
+[station]
+46349
+58
+North Industrial Centre
+21
+3.940
+895.924
+8.299
+15.000
+
+[station]
+46427
+74
+Submontane Village
+16
+4.428
+1216.415
+22.704
+2.000
+
+[station]
+53446
+95
+Greensleeves Village
+13
+3.083
+1750.233
+92.694
+5.000
+
+[station]
+53239
+99
+Western College
+15
+3.130
+2037.942
+30.305
+8.000
+
+[station]
+691511
+107
+Fuk Wo Estate
+38
+1.283
+2431.331
+94.478
+30.000
+
+[station]
+378995
+116
+2 Lauma Terrace
+93
+4.517
+2809.499
+23.245
+0.000
+
+[station]
+470019
+132
+Willow Garden
+94
+4.003
+3224.204
+25.640
+1.000
+
+[station]
+470023
+139
+Official Lodge
+193
+4.074
+3684.794
+25.830
+0.000
+
+[station]
+380195
+152
+Davis International School
+194
+4.603
+4071.593
+22.096
+8.000
+
+[station]
+360969
+172
+Western Coast
+196
+4.544
+4638.179
+23.392
+5.000
+
+[station]
+878272
+218
+University of Grundorf
+199
+24.509
+5375.728
+15.041
+100.000
+
+[station]
+360970
+250
+Western Coast
+196
+4.451
+5948.552
+24.425
+5.000
+
+[station]
+380194
+272
+Davis International School
+194
+4.315
+6585.757
+22.840
+8.000
+
+[station]
+470028
+282
+Official Lodge
+193
+4.096
+6835.368
+25.611
+0.000
+
+[station]
+470022
+289
+Willow Garden
+94
+4.058
+7300.711
+25.954
+1.000
+
+[station]
+378994
+307
+2 Lauma Terrace
+39
+4.534
+7852.903
+22.737
+2.000
+
+[station]
+691510
+314
+Fuk Wo Estate
+38
+1.243
+8098.599
+17.533
+30.000
+
+[station]
+53241
+321
+Western College
+15
+3.161
+8474.630
+78.358
+10.000
+
+[station]
+53447
+325
+Greensleeves Village
+13
+3.084
+8741.482
+37.070
+8.000
+
+[station]
+46428
+346
+Submontane Village
+16
+4.420
+9333.688
+23.497
+8.000
+
+[station]
+46350
+363
+North Industrial Centre
+21
+3.012
+9766.844
+6.070
+15.000
+
+[station]
+53436
+379
+Wah Fu Carpark
+21
+1.123
+9958.501
+18.432
+25.000
+
+[station]
+53424
+390
+Vista House
+32
+3.143
+10159.871
+-0.922
+20.000
+
+[station]
+4326931
+407
+Eastern Public Library
+31
+4.394
+10469.955
+21.964
+20.000
+
+[station]
+84488
+419
+Wah Fu Estate
+31
+1.281
+10710.435
+26.303
+30.000
+
+[station]
+798509
+423
+Wah Fu Estate Parking
+31
+0.867
+10795.532
+26.450
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+35.000
+

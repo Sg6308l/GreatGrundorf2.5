@@ -1,0 +1,167 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+74_wf(74)-ba(74)
+74: Bauernhof
+74
+
+.........................
+        Stations
+.........................
+
+[station]
+808718
+1
+Wah Fu Estate 70 74
+31
+0.697
+23.348
+23.348
+0.000
+
+[station]
+702250
+15
+Eastern Sport Ground
+30
+3.117
+260.116
+16.837
+0.000
+
+[station]
+46389
+21
+Vermilion Top
+30
+3.216
+422.595
+9.390
+8.000
+
+[station]
+46430
+40
+Einkaufszentrum
+17
+2.052
+1059.398
+8.165
+20.000
+
+[station]
+53446
+56
+Greensleeves Village
+13
+3.083
+1408.638
+92.694
+5.000
+
+[station]
+53239
+60
+Western College
+15
+3.130
+1695.649
+30.305
+8.000
+
+[station]
+18170
+66
+W. Sports Ground
+6
+3.081
+1928.126
+38.921
+20.000
+
+[station]
+65562
+73
+Mill Court
+6
+1.293
+2175.876
+12.172
+20.000
+
+[station]
+702242
+86
+Nordspitze
+3
+3.260
+2515.866
+35.318
+10.000
+
+[station]
+1796323
+95
+Bauernhof Railway Station
+5
+1.142
+2730.081
+17.053
+60.000
+
+[station]
+4232685
+105
+Bhf. Nordspitze
+3
+3.097
+2975.687
+11.004
+0.000
+
+[station]
+104
+121
+Bauernhof
+4
+5.110
+3321.990
+0.337
+20.000
+
+[station]
+507568
+127
+Bauernhof
+4
+1.437
+3412.110
+19.837
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+11.000
+
+[profile]
+fast
+10.000
+
+[profile]
+very fast
+9.000
+
+[profile]
+super fast
+8.000
+

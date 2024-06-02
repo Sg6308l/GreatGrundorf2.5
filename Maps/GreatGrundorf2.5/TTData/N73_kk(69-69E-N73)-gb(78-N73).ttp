@@ -1,0 +1,265 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+N73_kk(69-69E-N73)-gb(78-N73)
+N73: Grundorf Bay
+N73
+
+.........................
+        Stations
+.........................
+
+[station]
+672414
+2
+Krankenhaus
+8
+1.244
+66.654
+12.654
+0.000
+
+[station]
+702220
+6
+Einsteindorf Ausbau
+8
+3.156
+201.892
+19.692
+0.000
+
+[station]
+4879
+20
+Gau?orf
+5
+3.150
+482.921
+8.911
+10.000
+
+[station]
+4882
+30
+Elsterplatz
+5
+3.142
+702.594
+13.294
+20.000
+
+[station]
+1796323
+39
+Bauernhof Railway Station
+5
+1.142
+1014.153
+17.053
+60.000
+
+[station]
+20630
+49
+Bhf. Nordspitze
+3
+3.092
+1260.641
+11.886
+0.000
+
+[station]
+69148
+57
+Mill Court
+6
+3.099
+1506.634
+85.455
+20.000
+
+[station]
+53180
+67
+W. Sports Ground
+6
+3.202
+1706.611
+34.792
+15.000
+
+[station]
+16823
+98
+Mill Hill Village
+1
+1.255
+2946.806
+17.903
+15.000
+
+[station]
+16824
+103
+Mill Peak
+1
+2.291
+3158.931
+7.828
+20.000
+
+[station]
+53225
+120
+Mountain Court
+14
+2.980
+3720.030
+10.127
+15.000
+
+[station]
+53218
+125
+Good View Village
+0
+3.136
+3935.564
+15.684
+10.000
+
+[station]
+53206
+144
+Western Industrial Training Centre
+0
+4.501
+4646.904
+23.424
+15.000
+
+[station]
+53256
+163
+Tianing Estate
+9
+1.496
+5082.211
+3.764
+15.000
+
+[station]
+46347
+173
+Jade Village
+20
+-5.327
+5470.311
+10.665
+10.000
+
+[station]
+46427
+194
+Submontane Village
+16
+4.428
+6048.151
+22.704
+2.000
+
+[station]
+123505
+211
+Yellow House 1
+26
+3.032
+6480.110
+14.991
+10.000
+
+[station]
+123496
+221
+Pine Village
+28
+4.495
+6868.198
+23.070
+5.000
+
+[station]
+46390
+235
+Vermilion Top
+30
+3.014
+7353.927
+14.063
+10.000
+
+[station]
+46387
+240
+Eastern Sport Ground
+30
+3.178
+7665.105
+80.670
+25.000
+
+[station]
+46386
+250
+Eastern Public Library
+31
+4.511
+7904.074
+24.126
+20.000
+
+[station]
+46355
+283
+Seaside Garden
+22
+3.022
+8560.347
+-0.209
+15.000
+
+[station]
+702257
+286
+Sliversea House
+23
+2.951
+8684.870
+76.317
+15.000
+
+[station]
+581674
+307
+Grundorf Bay
+23
+0.724
+9170.760
+22.077
+10.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+20.000
+

@@ -1,0 +1,70 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+
+53: Airport (G.T.C.)
+53
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+5644347
+
+[station_typ2]
+4666943
+
+[station_typ2]
+331370
+
+[station_typ2]
+331373
+
+[station_typ2]
+331374
+
+[station_typ2]
+348297
+
+[station_typ2]
+361730
+
+[station_typ2]
+378993
+
+[station_typ2]
+378994
+
+[station_typ2]
+691510
+
+[station_typ2]
+4614113
+
+[station_typ2]
+4614121
+
+[station_typ2]
+4614123
+
+[station_typ2]
+4666942
+
+[station_typ2]
+5644365
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+30.000
+

@@ -1,0 +1,243 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+68_gb(68)-mlp(68-68E)
+68: Mid-Levels Plaza
+68
+
+.........................
+        Stations
+.........................
+
+[station]
+611394
+6
+Grundorf Bay
+23
+1.262
+66.195
+8.615
+0.000
+
+[station]
+46358
+17
+Sliversea House
+23
+3.109
+347.223
+47.843
+0.000
+
+[station]
+702254
+25
+United Dormitory
+32
+1.177
+660.230
+3.049
+0.000
+
+[station]
+702255
+32
+Royal Court
+32
+1.266
+844.927
+46.355
+0.000
+
+[station]
+702252
+73
+Eastern Public Library
+31
+4.431
+1874.009
+23.046
+0.000
+
+[station]
+702250
+85
+Eastern Sport Ground
+30
+3.117
+2119.904
+16.837
+0.000
+
+[station]
+702247
+91
+Vermilion Top
+30
+3.213
+2281.337
+8.344
+0.000
+
+[station]
+1440896
+161
+Grundorf Tunnel Toll Plaza
+220
+0.896
+6000.744
+4.960
+20.000
+
+[station]
+2057719
+279
+Mid-Levels Fire Station
+314
+3.165
+13196.584
+23.754
+15.000
+
+[station]
+2057716
+288
+Booman Court
+325
+4.376
+13577.836
+23.273
+20.000
+
+[station]
+2057713
+300
+Sunshine Villa
+322
+3.133
+13928.639
+6.077
+10.000
+
+[station]
+2057699
+317
+The Great Hill Villa
+323
+3.162
+14326.804
+15.429
+10.000
+
+[station]
+2057695
+324
+St. Stephen's School
+328
+3.145
+14492.673
+34.999
+5.000
+
+[station]
+2057690
+328
+South Valley Hospital
+327
+3.216
+14796.791
+79.117
+10.000
+
+[station]
+2057687
+342
+Yan Lam Estate
+317
+4.384
+15158.427
+23.742
+20.000
+
+[station]
+2057680
+362
+Mid-Levels Plaza
+322
+4.787
+15694.123
+4.309
+20.000
+
+[station]
+2057674
+371
+Mid-Levels Plaza Terminus
+322
+1.204
+15812.343
+19.861
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+27.000
+
+[profile_man_arr_time]
+6
+7.000
+[profile_man_arr_time]
+7
+11.000
+[profile_man_arr_time]
+8
+19.000
+[profile]
+fast
+24.000
+
+[profile_man_arr_time]
+6
+5.500
+[profile_man_arr_time]
+7
+9.500
+[profile_man_arr_time]
+8
+17.500
+[profile]
+very fast
+22.000
+
+[profile_man_arr_time]
+6
+5.000
+[profile_man_arr_time]
+7
+8.500
+[profile_man_arr_time]
+8
+17.500
+[profile]
+super fast
+20.000
+
+[profile_man_arr_time]
+6
+4.000
+[profile_man_arr_time]
+7
+7.500
+[profile_man_arr_time]
+8
+15.500

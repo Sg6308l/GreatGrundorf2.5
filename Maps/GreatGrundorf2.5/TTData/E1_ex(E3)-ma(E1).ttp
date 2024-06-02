@@ -1,0 +1,201 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+E1_ex(E3)-ma(E1)
+123: Maintenance Area Terminus
+123
+
+.........................
+        Stations
+.........................
+
+[station]
+4697248
+2
+Grundorf Expo
+63
+1.083
+24.526
+-0.874
+0.000
+
+[station]
+4697262
+15
+Knocknagoney Park
+79
+1.597
+183.869
+-0.351
+0.000
+
+[station]
+4614017
+22
+Grundorf Skycity Hotel
+64
+3.067
+309.883
+54.243
+0.000
+
+[station]
+4712416
+38
+SkyPier Grundorf
+64
+4.564
+640.619
+22.221
+0.000
+
+[station]
+4598284
+48
+Grundorf Expo East Gate
+63
+4.546
+1061.975
+23.315
+0.000
+
+[station]
+4598301
+53
+Airport Authority Office
+53
+4.498
+1328.304
+22.526
+1.000
+
+[station]
+4598320
+70
+Air Grundorf Headquarters
+61
+1.118
+1757.844
+19.918
+0.000
+
+[station]
+4598341
+87
+Aviation Fuel Tank Farm
+61
+4.532
+2060.011
+23.447
+1.000
+
+[station]
+4613916
+105
+Airport (Ground Transportation Centre)
+61
+1.202
+2643.503
+22.847
+50.000
+
+[station]
+4598402
+140
+SkyJet Air Grundorf Headquarters
+60
+3.155
+3254.226
+7.984
+2.000
+
+[station]
+4582932
+161
+Airport Bus Depot
+68
+5.661
+3703.744
+11.088
+5.000
+
+[station]
+4582936
+178
+Freight Terminal
+73
+0.794
+4230.927
+32.789
+10.000
+
+[station]
+4582935
+190
+Freight Terminal East
+72
+4.513
+4481.099
+23.341
+5.000
+
+[station]
+4598196
+197
+Freight Terminal 2
+72
+4.531
+4789.948
+23.788
+10.000
+
+[station]
+4598211
+219
+Air Mail Centre
+99
+4.496
+5586.873
+22.067
+15.000
+
+[station]
+4598219
+242
+Aircraft Enginering Centre
+161
+4.384
+7785.304
+22.878
+10.000
+
+[station]
+4598228
+260
+Maintenance Area Terminus
+165
+1.542
+8101.760
+11.014
+15.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+19.000
+
+[profile_man_arr_time]
+14
+15.000
+[profile_man_arr_time]
+15
+17.500

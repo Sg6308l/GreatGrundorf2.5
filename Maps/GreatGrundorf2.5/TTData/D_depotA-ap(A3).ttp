@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_depotA-ap(A3)
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+[station]
+4613918
+51
+Airport (Ground Transportation Centre)
+61
+1.020
+1049.610
+31.539
+20.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+4.000
+

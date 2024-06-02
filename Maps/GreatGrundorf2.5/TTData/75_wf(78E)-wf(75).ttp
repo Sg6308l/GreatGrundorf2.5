@@ -1,0 +1,227 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+75_wf(78E)-wf(75)
+75: Wah Fu Estate Cir
+75
+
+.........................
+        Stations
+.........................
+
+[station]
+53398
+1
+Wah Fu Estate 75 78E
+31
+4.203
+21.389
+21.389
+0.000
+
+[station]
+4211530
+15
+Eastern Public Library
+31
+4.534
+164.141
+22.051
+0.000
+
+[station]
+53425
+34
+Vista House
+32
+3.047
+422.486
+2.420
+2.000
+
+[station]
+53435
+40
+Wah Fu Carpark
+21
+2.846
+659.474
+8.049
+10.000
+
+[station]
+46349
+59
+North Industrial Centre
+21
+3.940
+899.497
+8.299
+15.000
+
+[station]
+46427
+75
+Submontane Village
+16
+4.428
+1219.988
+22.704
+2.000
+
+[station]
+53446
+96
+Greensleeves Village
+13
+3.083
+1753.823
+92.694
+5.000
+
+[station]
+53239
+100
+Western College
+15
+3.130
+2041.515
+30.305
+8.000
+
+[station]
+16823
+130
+Mill Hill Village
+1
+1.255
+3280.325
+17.903
+15.000
+
+[station]
+16824
+135
+Mill Peak
+1
+2.291
+3492.450
+7.828
+20.000
+
+[station]
+770158
+153
+Mountain Court
+14
+0.957
+4051.573
+29.052
+20.000
+
+[station]
+770159
+170
+Fairland Garden
+19
+4.501
+4568.771
+22.624
+5.000
+
+[station]
+770160
+179
+Dragon House
+16
+1.045
+4897.502
+10.830
+15.000
+
+[station]
+46350
+191
+North Industrial Centre
+21
+3.012
+5194.655
+6.070
+15.000
+
+[station]
+53436
+207
+Wah Fu Carpark
+21
+1.123
+5386.312
+18.432
+25.000
+
+[station]
+53424
+218
+Vista House
+32
+3.143
+5587.680
+-0.922
+20.000
+
+[station]
+4326931
+235
+Eastern Public Library
+31
+4.394
+5897.766
+21.964
+20.000
+
+[station]
+84488
+247
+Wah Fu Estate
+31
+1.281
+6138.244
+26.303
+30.000
+
+[station]
+88902
+251
+Wah Fu Estate Parking
+31
+0.664
+6219.653
+22.762
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+22.000
+
+[profile]
+fast
+22.000
+
+[profile]
+very fast
+19.000
+
+[profile]
+super fast
+18.000
+

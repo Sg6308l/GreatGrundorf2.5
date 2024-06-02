@@ -1,0 +1,275 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+903 (Uni - MLP)
+903: Mid-Levels Plaza
+903
+
+.........................
+        Stations
+.........................
+
+[station]
+5644500
+7
+Uni Of Grundorf
+199
+-23.323
+65.521
+-9.949
+0.000
+
+[station]
+360970
+36
+Western Coast
+196
+0.779
+613.482
+10.042
+5.000
+
+[station]
+380194
+62
+Davis International School
+194
+0.643
+1233.387
+8.457
+8.000
+
+[station]
+470028
+77
+Official Lodge
+193
+1.096
+1532.361
+7.611
+0.000
+
+[station]
+470022
+90
+Willow Garden
+94
+1.058
+2028.485
+7.954
+1.000
+
+[station]
+378994
+113
+2 Lauma Terrace
+39
+0.862
+2503.296
+8.354
+2.000
+
+[station]
+691510
+122
+Fuk Wo Estate
+38
+1.243
+2753.075
+17.533
+30.000
+
+[station]
+18170
+140
+W. Sports Ground
+6
+-246.441
+3412.283
+23.964
+20.000
+
+[station]
+16862
+140
+Mill Court
+6
+0.845
+3374.423
+-13.896
+20.000
+
+[station]
+702242
+150
+Nordspitze
+3
+3.260
+3683.281
+35.318
+10.000
+
+[station]
+763
+157
+Elsterplatz
+5
+3.190
+3863.219
+4.496
+20.000
+
+[station]
+53206
+177
+Western Industrial Training Centre
+0
+0.829
+4339.604
+9.041
+15.000
+
+[station]
+53256
+199
+Tianing Estate
+9
+1.904
+4762.251
+-13.082
+15.000
+
+[station]
+46348
+208
+Jade Village
+20
+1.347
+5188.073
+34.644
+10.000
+
+[station]
+46427
+234
+Submontane Village
+16
+4.593
+5782.568
+-22.199
+2.000
+
+[station]
+46429
+260
+Einkaufszentrum
+17
+4.472
+6247.960
+-57.606
+15.000
+
+[station]
+5200573
+332
+Grundorf Tunnel Toll Plaza
+220
+0.939
+9969.200
+6.927
+20.000
+
+[station]
+2057719
+452
+Mid-Levels Fire Station
+314
+3.917
+17079.932
+-16.110
+15.000
+
+[station]
+2057716
+462
+Booman Court
+325
+2.982
+17495.037
+-6.015
+20.000
+
+[station]
+2057713
+477
+Sunshine Villa
+322
+-18.399
+17767.986
+-82.305
+10.000
+
+[station]
+2057699
+492
+The Great Hill Villa
+323
+3.162
+18214.532
+15.429
+10.000
+
+[station]
+2057695
+499
+St. Stephen's School
+328
+3.145
+18380.402
+34.999
+5.000
+
+[station]
+2057690
+504
+South Valley Hospital
+327
+3.216
+18634.518
+-0.885
+10.000
+
+[station]
+2057687
+519
+Yan Lam Estate
+317
+0.712
+19071.771
+9.359
+20.000
+
+[station]
+5644486
+549
+Mid-Levels Plaza Terminus
+322
+-0.132
+19691.734
+24.332
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+45.000
+

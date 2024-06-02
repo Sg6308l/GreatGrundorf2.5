@@ -1,0 +1,381 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+E2_ex(E1)-ex(E2)
+20: Grundorf Expo Circular
+20
+
+.........................
+        Stations
+.........................
+
+[station]
+4697247
+2
+Grundorf Expo
+63
+1.030
+24.858
+-0.542
+0.000
+
+[station]
+4697262
+17
+Knocknagoney Park
+79
+1.597
+197.869
+-0.351
+0.000
+
+[station]
+4614017
+24
+Grundorf Skycity Hotel
+64
+3.067
+323.883
+54.243
+0.000
+
+[station]
+4712416
+40
+SkyPier Grundorf
+64
+4.564
+654.619
+22.221
+0.000
+
+[station]
+4598284
+50
+Grundorf Expo East Gate
+63
+4.546
+1075.975
+23.315
+0.000
+
+[station]
+4598301
+55
+Airport Authority Office
+53
+4.498
+1342.304
+22.526
+1.000
+
+[station]
+4598320
+72
+Air Grundorf Headquarters
+61
+1.118
+1771.844
+19.918
+0.000
+
+[station]
+4598341
+89
+Aviation Fuel Tank Farm
+61
+4.532
+2074.011
+23.447
+1.000
+
+[station]
+4613923
+111
+Airport (Ground Transportation Centre)
+61
+5.500
+2717.450
+0.095
+0.000
+
+[station]
+4666944
+157
+Passenger Terminal 1
+66
+5.618
+3603.389
+16.699
+0.000
+
+[station]
+4614076
+222
+Vista House
+32
+3.008
+6647.605
+3.763
+20.000
+
+[station]
+4614080
+229
+Wah Fu Carpark
+21
+3.150
+6888.193
+3.176
+15.000
+
+[station]
+4614084
+247
+North Industrial Centre
+21
+2.666
+7131.160
+13.093
+15.000
+
+[station]
+46347
+262
+Jade Village
+20
+1.327
+7454.791
+69.335
+10.000
+
+[station]
+4614092
+271
+Tianing Estate
+9
+1.388
+7906.952
+16.542
+15.000
+
+[station]
+16817
+293
+Western Industrial Training Centre
+0
+4.500
+8378.154
+22.346
+15.000
+
+[station]
+4614096
+314
+Elsterplatz
+5
+3.212
+8859.228
+6.829
+20.000
+
+[station]
+4614098
+323
+Bauernhof Railway Station
+5
+1.191
+9172.300
+12.101
+60.000
+
+[station]
+4232685
+333
+Bhf. Nordspitze
+3
+3.097
+9422.859
+11.004
+0.000
+
+[station]
+4614102
+341
+Mill Court
+4
+3.170
+9663.662
+79.384
+20.000
+
+[station]
+4614106
+351
+W. Sports Ground
+6
+3.072
+9864.341
+29.424
+15.000
+
+[station]
+4614113
+357
+Western College
+15
+3.069
+10127.133
+68.357
+8.000
+
+[station]
+4614121
+361
+Greensleeves Village
+13
+3.175
+10393.220
+26.304
+8.000
+
+[station]
+4614123
+381
+Einkaufszentrum
+17
+4.300
+10846.998
+8.424
+15.000
+
+[station]
+4666941
+477
+Passenger Terminal 1
+66
+5.485
+14934.355
+26.918
+70.000
+
+[station]
+4613917
+503
+Airport (Ground Transportation Centre)
+61
+1.193
+15459.805
+25.096
+30.000
+
+[station]
+4598342
+540
+Aviation Fuel Tank Farm
+61
+4.460
+16304.940
+22.326
+10.000
+
+[station]
+4598321
+554
+Air Grundorf Headquarters
+61
+1.137
+16746.583
+18.841
+20.000
+
+[station]
+299140
+570
+Airport Authority Office
+53
+4.536
+17028.853
+23.033
+5.000
+
+[station]
+4598283
+575
+Grundorf Expo East Gate
+63
+4.532
+17293.402
+22.748
+20.000
+
+[station]
+4712415
+587
+SkyPier Grundorf
+64
+4.556
+17851.150
+23.191
+30.000
+
+[station]
+4614016
+601
+Grundorf Skycity Hotel
+64
+3.050
+18123.364
+-0.931
+10.000
+
+[station]
+4697263
+618
+Knocknagoney Park
+79
+7.460
+18358.711
+3.755
+15.000
+
+[station]
+4697252
+629
+Grundorf Expo
+63
+1.042
+18566.518
+6.243
+40.000
+
+[station]
+4697251
+632
+Grundorf Expo Terminus
+63
+0.940
+18646.894
+20.919
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+49.000
+
+[profile_man_arr_time]
+10
+14.000
+[profile_man_arr_time]
+24
+35.000

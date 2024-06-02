@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_depot3-mlp(68-68E)
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+[station]
+2057674
+113
+Mid-Levels Plaza Terminus
+322
+1.204
+3651.853
+19.861
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+8.000
+

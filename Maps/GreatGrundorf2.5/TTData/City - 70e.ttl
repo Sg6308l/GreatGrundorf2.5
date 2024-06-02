@@ -1,0 +1,671 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+70 - 04
+Depot 1
+1023
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+X70 WF-YL
+0
+360.000
+
+  Dep.: 6:40:0
+[addtrip]
+X70 YL-WF
+0
+400.000
+
+  Dep.: 7:20:0
+[addtrip]
+X70 WF-YL
+0
+440.000
+
+  Dep.: 8:0:0
+[addtrip]
+X70 YL-WF
+0
+480.000
+
+  Dep.: 8:40:0
+[addtrip]
+X70 WF-YL
+0
+520.000
+
+  Dep.: 9:20:0
+[addtrip]
+X70 YL-WF
+0
+560.000
+
+  Dep.: 10:0:0
+[addtrip]
+X70 WF-YL
+0
+600.000
+
+  Dep.: 10:40:0
+[addtrip]
+X70 YL-WF
+0
+640.000
+
+  Dep.: 11:20:0
+[addtrip]
+X70 WF-YL
+0
+680.000
+
+  Dep.: 12:0:0
+[addtrip]
+X70 YL-WF
+0
+720.000
+
+  Dep.: 12:40:0
+[addtrip]
+X70 WF-YL
+0
+760.000
+
+  Dep.: 13:20:0
+[addtrip]
+X70 YL-WF
+0
+800.000
+
+  Dep.: 14:0:0
+[addtrip]
+X70 WF-YL
+0
+840.000
+
+  Dep.: 14:40:0
+[addtrip]
+X70 YL-WF
+0
+880.000
+
+  Dep.: 15:20:0
+[addtrip]
+X70 WF-YL
+0
+920.000
+
+  Dep.: 16:0:0
+[addtrip]
+X70 YL-WF
+0
+960.000
+
+  Dep.: 16:40:0
+[addtrip]
+X70 WF-YL
+0
+1000.000
+
+  Dep.: 17:20:0
+[addtrip]
+X70 YL-WF
+0
+1040.000
+
+  Dep.: 18:0:0
+[addtrip]
+X70 WF-YL
+0
+1080.000
+
+  Dep.: 18:40:0
+[addtrip]
+X70 YL-WF
+0
+1120.000
+
+  Dep.: 19:20:0
+[addtrip]
+X70 WF-YL
+0
+1160.000
+
+  Dep.: 20:0:0
+[addtrip]
+X70 YL-WF
+0
+1200.000
+
+  Dep.: 20:40:0
+[addtrip]
+X70 WF-YL
+0
+1240.000
+
+  Dep.: 21:20:0
+[addtrip]
+X70 YL-WF
+0
+1280.000
+
+  Dep.: 22:0:0
+[addtrip]
+X70 WF-YL
+0
+1320.000
+
+  Dep.: 22:40:0
+[addtrip]
+X70 YL-WF
+0
+1360.000
+
+------------------------------------
+
+[newtour]
+70 - 05
+Depot 1
+1023
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+X70 YL-WF
+0
+360.000
+
+  Dep.: 6:40:0
+[addtrip]
+X70 WF-YL
+0
+400.000
+
+  Dep.: 7:20:0
+[addtrip]
+X70 YL-WF
+0
+440.000
+
+  Dep.: 8:0:0
+[addtrip]
+X70 WF-YL
+0
+480.000
+
+  Dep.: 8:40:0
+[addtrip]
+X70 YL-WF
+0
+520.000
+
+  Dep.: 9:20:0
+[addtrip]
+X70 WF-YL
+0
+560.000
+
+  Dep.: 10:0:0
+[addtrip]
+X70 YL-WF
+0
+600.000
+
+  Dep.: 10:40:0
+[addtrip]
+X70 WF-YL
+0
+640.000
+
+  Dep.: 11:20:0
+[addtrip]
+X70 YL-WF
+0
+680.000
+
+  Dep.: 12:0:0
+[addtrip]
+X70 WF-YL
+0
+720.000
+
+  Dep.: 12:40:0
+[addtrip]
+X70 YL-WF
+0
+760.000
+
+  Dep.: 13:20:0
+[addtrip]
+X70 WF-YL
+0
+800.000
+
+  Dep.: 14:0:0
+[addtrip]
+X70 YL-WF
+0
+840.000
+
+  Dep.: 14:40:0
+[addtrip]
+X70 WF-YL
+0
+880.000
+
+  Dep.: 15:20:0
+[addtrip]
+X70 YL-WF
+0
+920.000
+
+  Dep.: 16:0:0
+[addtrip]
+X70 WF-YL
+0
+960.000
+
+  Dep.: 16:40:0
+[addtrip]
+X70 YL-WF
+0
+1000.000
+
+  Dep.: 17:20:0
+[addtrip]
+X70 WF-YL
+0
+1040.000
+
+  Dep.: 18:0:0
+[addtrip]
+X70 YL-WF
+0
+1080.000
+
+  Dep.: 18:40:0
+[addtrip]
+X70 WF-YL
+0
+1120.000
+
+  Dep.: 19:20:0
+[addtrip]
+X70 YL-WF
+0
+1160.000
+
+  Dep.: 20:0:0
+[addtrip]
+X70 WF-YL
+0
+1200.000
+
+  Dep.: 20:40:0
+[addtrip]
+X70 YL-WF
+0
+1240.000
+
+  Dep.: 21:20:0
+[addtrip]
+X70 WF-YL
+0
+1280.000
+
+  Dep.: 22:0:0
+[addtrip]
+X70 YL-WF
+0
+1320.000
+
+  Dep.: 22:40:0
+[addtrip]
+X70 WF-YL
+0
+1360.000
+
+------------------------------------
+
+[newtour]
+70 - 06
+Depot 1
+1023
+
+------------------------------------
+
+  Dep.: 6:15:0
+[addtrip]
+X70 WF-YL
+0
+375.000
+
+  Dep.: 6:55:0
+[addtrip]
+X70 YL-WF
+0
+415.000
+
+  Dep.: 7:35:0
+[addtrip]
+X70 WF-YL
+0
+455.000
+
+  Dep.: 8:15:0
+[addtrip]
+X70 YL-WF
+0
+495.000
+
+  Dep.: 8:55:0
+[addtrip]
+X70 WF-YL
+0
+535.000
+
+  Dep.: 9:35:0
+[addtrip]
+X70 YL-WF
+0
+575.000
+
+  Dep.: 10:15:0
+[addtrip]
+X70 WF-YL
+0
+615.000
+
+  Dep.: 10:55:0
+[addtrip]
+X70 YL-WF
+0
+655.000
+
+  Dep.: 11:35:0
+[addtrip]
+X70 WF-YL
+0
+695.000
+
+  Dep.: 12:15:0
+[addtrip]
+X70 YL-WF
+0
+735.000
+
+  Dep.: 12:55:0
+[addtrip]
+X70 WF-YL
+0
+775.000
+
+  Dep.: 13:35:0
+[addtrip]
+X70 YL-WF
+0
+815.000
+
+  Dep.: 14:15:0
+[addtrip]
+X70 WF-YL
+0
+855.000
+
+  Dep.: 14:55:0
+[addtrip]
+X70 YL-WF
+0
+895.000
+
+  Dep.: 15:35:0
+[addtrip]
+X70 WF-YL
+0
+935.000
+
+  Dep.: 16:15:0
+[addtrip]
+X70 YL-WF
+0
+975.000
+
+  Dep.: 16:55:0
+[addtrip]
+X70 WF-YL
+0
+1015.000
+
+  Dep.: 17:35:0
+[addtrip]
+X70 YL-WF
+0
+1055.000
+
+  Dep.: 18:15:0
+[addtrip]
+X70 WF-YL
+0
+1095.000
+
+  Dep.: 18:55:0
+[addtrip]
+X70 YL-WF
+0
+1135.000
+
+  Dep.: 19:35:0
+[addtrip]
+X70 WF-YL
+0
+1175.000
+
+  Dep.: 20:15:0
+[addtrip]
+X70 YL-WF
+0
+1215.000
+
+  Dep.: 20:55:0
+[addtrip]
+X70 WF-YL
+0
+1255.000
+
+  Dep.: 21:35:0
+[addtrip]
+X70 YL-WF
+0
+1295.000
+
+  Dep.: 22:15:0
+[addtrip]
+X70 WF-YL
+0
+1335.000
+
+  Dep.: 22:55:0
+[addtrip]
+X70 YL-WF
+0
+1375.000
+
+------------------------------------
+
+[newtour]
+70 - 07
+Depot 1
+1023
+
+------------------------------------
+
+  Dep.: 6:15:0
+[addtrip]
+X70 YL-WF
+0
+375.000
+
+  Dep.: 6:55:0
+[addtrip]
+X70 WF-YL
+0
+415.000
+
+  Dep.: 7:35:0
+[addtrip]
+X70 YL-WF
+0
+455.000
+
+  Dep.: 8:15:0
+[addtrip]
+X70 WF-YL
+0
+495.000
+
+  Dep.: 8:55:0
+[addtrip]
+X70 YL-WF
+0
+535.000
+
+  Dep.: 9:35:0
+[addtrip]
+X70 WF-YL
+0
+575.000
+
+  Dep.: 10:15:0
+[addtrip]
+X70 YL-WF
+0
+615.000
+
+  Dep.: 10:55:0
+[addtrip]
+X70 WF-YL
+0
+655.000
+
+  Dep.: 11:35:0
+[addtrip]
+X70 YL-WF
+0
+695.000
+
+  Dep.: 12:15:0
+[addtrip]
+X70 WF-YL
+0
+735.000
+
+  Dep.: 12:55:0
+[addtrip]
+X70 YL-WF
+0
+775.000
+
+  Dep.: 13:35:0
+[addtrip]
+X70 WF-YL
+0
+815.000
+
+  Dep.: 14:15:0
+[addtrip]
+X70 YL-WF
+0
+855.000
+
+  Dep.: 14:55:0
+[addtrip]
+X70 WF-YL
+0
+895.000
+
+  Dep.: 15:35:0
+[addtrip]
+X70 YL-WF
+0
+935.000
+
+  Dep.: 16:15:0
+[addtrip]
+X70 WF-YL
+0
+975.000
+
+  Dep.: 16:55:0
+[addtrip]
+X70 YL-WF
+0
+1015.000
+
+  Dep.: 17:35:0
+[addtrip]
+X70 WF-YL
+0
+1055.000
+
+  Dep.: 18:15:0
+[addtrip]
+X70 YL-WF
+0
+1095.000
+
+  Dep.: 18:55:0
+[addtrip]
+X70 WF-YL
+0
+1135.000
+
+  Dep.: 19:35:0
+[addtrip]
+X70 YL-WF
+0
+1175.000
+
+  Dep.: 20:15:0
+[addtrip]
+X70 WF-YL
+0
+1215.000
+
+  Dep.: 20:55:0
+[addtrip]
+X70 YL-WF
+0
+1255.000
+
+  Dep.: 21:35:0
+[addtrip]
+X70 WF-YL
+0
+1295.000
+
+  Dep.: 22:15:0
+[addtrip]
+X70 YL-WF
+0
+1335.000
+
+  Dep.: 22:55:0
+[addtrip]
+X70 WF-YL
+0
+1375.000
+

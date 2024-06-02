@@ -1,0 +1,155 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+92_gb(92)-ce(92)
+92: Cemetery of Grundorf
+92
+
+.........................
+        Stations
+.........................
+
+[station]
+691637
+5
+Grundorf Bay
+33
+3.112
+54.770
+5.340
+0.000
+
+[station]
+46358
+21
+Sliversea House
+23
+3.109
+381.303
+47.843
+0.000
+
+[station]
+702254
+29
+United Dormitory
+32
+1.177
+694.310
+3.049
+0.000
+
+[station]
+702255
+36
+Royal Court
+32
+1.266
+879.007
+46.355
+0.000
+
+[station]
+702252
+77
+Eastern Public Library
+31
+4.431
+1908.089
+23.046
+0.000
+
+[station]
+702250
+89
+Eastern Sport Ground
+30
+3.117
+2153.984
+16.837
+0.000
+
+[station]
+702247
+95
+Vermilion Top
+30
+3.213
+2315.417
+8.344
+0.000
+
+[station]
+702231
+121
+Tak Wo Estate
+47
+4.527
+3145.783
+23.398
+0.000
+
+[station]
+702232
+134
+Ocean Villa
+176
+4.480
+3697.896
+24.190
+0.000
+
+[station]
+702233
+146
+Police Dormitory
+177
+4.526
+4216.946
+23.340
+0.000
+
+[station]
+331376
+172
+Lower Cemetery of Grundorf
+180
+4.560
+4882.739
+24.903
+50.000
+
+[station]
+380166
+184
+Cemetery of Grundorf
+180
+0.981
+5328.482
+20.446
+100.000
+
+[station]
+691652
+188
+Cemetery of Grundorf
+180
+1.162
+5409.714
+24.578
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+16.000
+

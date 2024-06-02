@@ -1,0 +1,35 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+D_depot2-ba(76)
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+[station]
+507567
+132
+Bauernhof
+4
+1.102
+4155.823
+23.830
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+8.000
+

@@ -1,0 +1,298 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 15/2/2024
+
+[trip]
+80 PB - MLP
+80: Mid-Levels Plaza
+80
+
+.........................
+        Stations
+.........................
+
+[station]
+5644317
+0
+Peninsula Beach
+216
+1.139
+19.788
+19.788
+0.000
+
+[station]
+5644312
+8
+Peninsula Beach
+214
+1.659
+117.219
+4.499
+0.000
+
+[station]
+397898
+30
+2 Peninsula Beach
+213
+1.128
+618.979
+5.739
+0.000
+
+[station]
+397893
+55
+Scenery Villa
+208
+3.946
+1331.129
+-6.652
+0.000
+
+[station]
+397894
+72
+Neo Greenhouse
+204
+0.856
+1867.778
+6.479
+0.000
+
+[station]
+397897
+91
+Western Beach Hotel
+198
+1.002
+2419.783
+8.166
+0.000
+
+[station]
+359369
+138
+University of Grundorf
+199
+-23.512
+3096.594
+-20.039
+10.000
+
+[station]
+360970
+170
+Western Coast
+196
+0.779
+3705.045
+10.042
+5.000
+
+[station]
+380194
+196
+Davis International School
+194
+0.643
+4324.950
+8.457
+8.000
+
+[station]
+470028
+196
+Official Lodge
+193
+72.023
+4606.506
+290.013
+0.000
+
+[station]
+470022
+225
+Willow Garden
+94
+3.113
+5111.421
+-5.673
+1.000
+
+[station]
+378994
+247
+2 Lauma Terrace
+39
+0.862
+5594.858
+8.354
+2.000
+
+[station]
+691510
+256
+Fuk Wo Estate
+38
+1.243
+5844.638
+17.533
+30.000
+
+[station]
+53241
+266
+Western College
+15
+-128.847
+6200.098
+-150.352
+10.000
+
+[station]
+53447
+267
+Greensleeves Village
+13
+3.084
+6487.521
+37.070
+8.000
+
+[station]
+46429
+287
+Einkaufszentrum
+17
+4.282
+6935.767
+13.658
+15.000
+
+[station]
+5200573
+365
+Grundorf Tunnel Toll Plaza
+220
+0.955
+10672.580
+-1.044
+20.000
+
+[station]
+1843181
+489
+South Valley Railway Station
+271
+0.654
+17268.510
+14.805
+20.000
+
+[station]
+1892370
+510
+South Valley Sport Centres
+315
+0.600
+17795.319
+9.675
+10.000
+
+[station]
+2057719
+543
+Mid-Levels Fire Station
+314
+3.165
+18546.590
+23.754
+15.000
+
+[station]
+2057716
+554
+Booman Court
+325
+0.704
+18968.458
+8.890
+20.000
+
+[station]
+2057713
+568
+Sunshine Villa
+322
+3.133
+19279.881
+6.077
+10.000
+
+[station]
+2362714
+586
+The Great Hill Villa
+323
+2.712
+19663.697
+-8.925
+10.000
+
+[station]
+2057695
+592
+St. Stephen's School
+328
+3.145
+19843.917
+34.999
+5.000
+
+[station]
+2362716
+597
+South Valley Hospital
+327
+3.212
+20096.922
+-1.996
+10.000
+
+[station]
+2057687
+612
+Yan Lam Estate
+317
+0.712
+20535.287
+9.359
+20.000
+
+[station]
+2057675
+643
+Mid-Levels Plaza Terminus
+322
+1.277
+21168.930
+23.972
+0.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+80AP
+40.000
+
+[profile_otherstopping]
+11
+4
